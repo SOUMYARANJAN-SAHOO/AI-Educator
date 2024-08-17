@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="HeaderText">
+        <item name="android:fontFamily">@font/mochiypopone_regular</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SubeaderText">
+        <item name="android:fontFamily">@font/mochiypopone_regular</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="BodyText">
+        <item name="android:fontFamily">@font/mochiypopone_regular</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    
+    
+</resources>

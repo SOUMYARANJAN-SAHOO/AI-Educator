@@ -1,0 +1,2962 @@
+[
+  {
+    "id": "AI001",
+    "title": "Fundamentals of Artificial Intelligence",
+    "description": "",
+    "no_of_videos": "35",
+    "level": "Beginner",
+    "instructor": "NPTEL IIT Guwahati",
+    "topics": [
+      {
+        "title": "Fundamentals of Artificial Intelligence [Introduction]",
+        "viewCount": "86K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "4:33",
+        "videoId": "X_Qt0U66aH0",
+        "videoUrl": "https://www.youtube.com/watch?v=X_Qt0U66aH0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/X_Qt0U66aH0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCTPsFAreb7NjaZwnk-DPnwPZIQkA"
+      },
+      {
+        "title": "Lec 01: Introduction to AI",
+        "viewCount": "132K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "35:12",
+        "videoId": "pKeVMlkFpRc",
+        "videoUrl": "https://www.youtube.com/watch?v=pKeVMlkFpRc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pKeVMlkFpRc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWA0G6aHVqNWF5jgH9elkLeP93PA"
+      },
+      {
+        "title": "Lec 02: Problem Solving as State Space Search",
+        "viewCount": "51K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "57:16",
+        "videoId": "fLw8SfvaJWA",
+        "videoUrl": "https://www.youtube.com/watch?v=fLw8SfvaJWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fLw8SfvaJWA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDprfoyIXsNjjkAnpGCHI9V4RICdw"
+      },
+      {
+        "title": "Lec 03: Uniformed Search",
+        "viewCount": "27K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "47:52",
+        "videoId": "te1K8on1Pk0",
+        "videoUrl": "https://www.youtube.com/watch?v=te1K8on1Pk0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/te1K8on1Pk0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9SkDmi4GHsAyf_MYNclHfDQVFVg"
+      },
+      {
+        "title": "Lec 04: Heuristic Search",
+        "viewCount": "23K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "35:21",
+        "videoId": "0awSpFyh2MY",
+        "videoUrl": "https://www.youtube.com/watch?v=0awSpFyh2MY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0awSpFyh2MY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4UywqhmAqHoUTdxaakLl-MDpNGg"
+      },
+      {
+        "title": "Lec 05: Informed Search",
+        "viewCount": "15K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "46:49",
+        "videoId": "-Rf2hOyjZB8",
+        "videoUrl": "https://www.youtube.com/watch?v=-Rf2hOyjZB8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-Rf2hOyjZB8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCiSjMek1IUvIAPn5gSrsj03D5EPg"
+      },
+      {
+        "title": "Lec 06: Constraint Satisfaction Problems",
+        "viewCount": "14K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "1:06:57",
+        "videoId": "-6FRXK7RwJE",
+        "videoUrl": "https://www.youtube.com/watch?v=-6FRXK7RwJE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-6FRXK7RwJE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDOokUmTmJwxPt29OA9RRjsDhOBug"
+      },
+      {
+        "title": "Lec 07: Searching AND/OR Graphs",
+        "viewCount": "10K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "40:28",
+        "videoId": "wOKGypfkMCY",
+        "videoUrl": "https://www.youtube.com/watch?v=wOKGypfkMCY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wOKGypfkMCY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApK5UCc0NtpUXqGk-CHzIx8Oe4VQ"
+      },
+      {
+        "title": "Lec 08: Game Playing",
+        "viewCount": "9.2K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "44:25",
+        "videoId": "DeVA3ccObkA",
+        "videoUrl": "https://www.youtube.com/watch?v=DeVA3ccObkA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DeVA3ccObkA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBm2kZ7vu0yY_Gctpuy006wD9HCuw"
+      },
+      {
+        "title": "Lec 09: Minimax + Alpha-Beta",
+        "viewCount": "9K views",
+        "publishedDate": "5 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "42:18",
+        "videoId": "gkiMTxzCUDg",
+        "videoUrl": "https://www.youtube.com/watch?v=gkiMTxzCUDg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gkiMTxzCUDg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEa8iEb6OJRjEQFG8JUkhSvUMrkw"
+      },
+      {
+        "title": "Lec 10: Introduction to Knowledge Representation",
+        "viewCount": "15K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "36:08",
+        "videoId": "SEJhMO1IXZs",
+        "videoUrl": "https://www.youtube.com/watch?v=SEJhMO1IXZs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SEJhMO1IXZs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRmNCawLzYfpYigM9gqnwI5l3M6A"
+      },
+      {
+        "title": "Lec 11: Propositional Logic",
+        "viewCount": "11K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "34:50",
+        "videoId": "40WIjcAsfTQ",
+        "videoUrl": "https://www.youtube.com/watch?v=40WIjcAsfTQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/40WIjcAsfTQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiQm1fP3O6ENH3GTN8qlsO3Q6URQ"
+      },
+      {
+        "title": "Lec 12: First Order Logic -I",
+        "viewCount": "12K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "45:10",
+        "videoId": "g4oh4ofz-8Q",
+        "videoUrl": "https://www.youtube.com/watch?v=g4oh4ofz-8Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/g4oh4ofz-8Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVN0G3XiVe66B_xNrl5UqE7gNnew"
+      },
+      {
+        "title": "Lec 13: First Order Logic -II",
+        "viewCount": "9.3K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "40:28",
+        "videoId": "amo0iU9qfpw",
+        "videoUrl": "https://www.youtube.com/watch?v=amo0iU9qfpw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/amo0iU9qfpw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJ_mZIP_1tWfxl6Uy-HXrKxGQQyw"
+      },
+      {
+        "title": "Lec 14: Inference in First Order Logic - I",
+        "viewCount": "8.5K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "53:18",
+        "videoId": "Tp9M7vMHFKw",
+        "videoUrl": "https://www.youtube.com/watch?v=Tp9M7vMHFKw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Tp9M7vMHFKw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA9glo3x99tzUQ4OekX134r9ZCMYA"
+      },
+      {
+        "title": "Lec 15: Inference in FOL - II",
+        "viewCount": "8.3K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "59:37",
+        "videoId": "WOkM0Yaa7q4",
+        "videoUrl": "https://www.youtube.com/watch?v=WOkM0Yaa7q4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WOkM0Yaa7q4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAotOPAPkivtuPbkOEvIqDCrSrr3g"
+      },
+      {
+        "title": "Lec 16: Answer Extraction",
+        "viewCount": "4.5K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "33:23",
+        "videoId": "W7hFXq4Od9c",
+        "videoUrl": "https://www.youtube.com/watch?v=W7hFXq4Od9c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/W7hFXq4Od9c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBdAPq3xHxtGSDyhcDqTW2tCxXrrg"
+      },
+      {
+        "title": "Lec 17: Procedural Control of Reasoning",
+        "viewCount": "4.3K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "44:52",
+        "videoId": "Igblo4lYci8",
+        "videoUrl": "https://www.youtube.com/watch?v=Igblo4lYci8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Igblo4lYci8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACfJ8ZtTLSTzBrRGcsDAmX3L9uGA"
+      },
+      {
+        "title": "Lec 18: Reasoning under Uncertainty",
+        "viewCount": "18K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "43:38",
+        "videoId": "1lKsSiEsJ18",
+        "videoUrl": "https://www.youtube.com/watch?v=1lKsSiEsJ18",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1lKsSiEsJ18/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDB2hXTRKhSgeDGrCsqtXCUK00WnA"
+      },
+      {
+        "title": "Lec 19: Bayesian Network",
+        "viewCount": "9.5K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "47:45",
+        "videoId": "EVrpfjqRySk",
+        "videoUrl": "https://www.youtube.com/watch?v=EVrpfjqRySk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/EVrpfjqRySk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBch-Tx2D42AQM9VvJ_34zuFqzIQA"
+      },
+      {
+        "title": "Lec 20: Decision Network",
+        "viewCount": "5.8K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "43:21",
+        "videoId": "78tTEc8z2GM",
+        "videoUrl": "https://www.youtube.com/watch?v=78tTEc8z2GM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/78tTEc8z2GM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8hYD66SU1jVlCf9FlMapkT8lfKw"
+      },
+      {
+        "title": "Lec 21: Introduction to Planning",
+        "viewCount": "9.1K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "1:01:23",
+        "videoId": "RFdZMGJHrTc",
+        "videoUrl": "https://www.youtube.com/watch?v=RFdZMGJHrTc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RFdZMGJHrTc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxnfworS5C6Jqn8yAlcMSvziq9NQ"
+      },
+      {
+        "title": "Lec 22: Plan Space Planning",
+        "viewCount": "5.8K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "41:36",
+        "videoId": "ki7HIdhoKu0",
+        "videoUrl": "https://www.youtube.com/watch?v=ki7HIdhoKu0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ki7HIdhoKu0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXrIxACHugqESg0_b81geVZjraJQ"
+      },
+      {
+        "title": "Lec 23: Planning Graph and GraphPlan",
+        "viewCount": "14K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "45:53",
+        "videoId": "02OEYFA1PA4",
+        "videoUrl": "https://www.youtube.com/watch?v=02OEYFA1PA4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/02OEYFA1PA4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA57SFLo7qre0-KgqThx9cLWe3DkQ"
+      },
+      {
+        "title": "Lec 24: Practical Planning and Acting",
+        "viewCount": "5.3K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "51:25",
+        "videoId": "JXCFMe6nuWA",
+        "videoUrl": "https://www.youtube.com/watch?v=JXCFMe6nuWA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JXCFMe6nuWA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBINZo10m2zAJn8Zr6GEhx3ieCqVA"
+      },
+      {
+        "title": "Lec 25: Sequential Decision Problems",
+        "viewCount": "7.4K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "34:31",
+        "videoId": "4gezLmYgGzQ",
+        "videoUrl": "https://www.youtube.com/watch?v=4gezLmYgGzQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4gezLmYgGzQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5pl29aUOKO8Bjp2XPESlCPU-QQg"
+      },
+      {
+        "title": "Lec 26: Making Complex Decisions",
+        "viewCount": "3.1K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "36:30",
+        "videoId": "KLn-b5e_uOI",
+        "videoUrl": "https://www.youtube.com/watch?v=KLn-b5e_uOI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KLn-b5e_uOI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASwvUgwqVaQSIxW9dfURHnkY7tIQ"
+      },
+      {
+        "title": "Lec 27: Introduction to Machine Learning",
+        "viewCount": "7.2K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "45:01",
+        "videoId": "198Luurlu6E",
+        "videoUrl": "https://www.youtube.com/watch?v=198Luurlu6E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/198Luurlu6E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDajxQ-iog5JR2HMV9S7e_ipDFzrQ"
+      },
+      {
+        "title": "Lec 28: Learning Decision Trees",
+        "viewCount": "4.9K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "51:18",
+        "videoId": "uwzsLunzCMM",
+        "videoUrl": "https://www.youtube.com/watch?v=uwzsLunzCMM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uwzsLunzCMM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAN7m3B_WIZf3T5jjAGxVXqfyPyug"
+      },
+      {
+        "title": "Lec 29: Linear Regression",
+        "viewCount": "4.3K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "37:38",
+        "videoId": "0wXanIIjP98",
+        "videoUrl": "https://www.youtube.com/watch?v=0wXanIIjP98",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0wXanIIjP98/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArU52g2cZt7L4eYISWT4HI0p2p3g"
+      },
+      {
+        "title": "Lec 30: Support Vector Machines",
+        "viewCount": "4.4K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "42:33",
+        "videoId": "aEW_DtRtLBc",
+        "videoUrl": "https://www.youtube.com/watch?v=aEW_DtRtLBc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aEW_DtRtLBc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPaieEstX63XXqI5UaUWHAC7ePWw"
+      },
+      {
+        "title": "Lec 31: Unsupervised Learning",
+        "viewCount": "3.1K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "51:37",
+        "videoId": "aAhhuAu0ssM",
+        "videoUrl": "https://www.youtube.com/watch?v=aAhhuAu0ssM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aAhhuAu0ssM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAeC85Ul69SaEogRb_vFGkTjwLwRw"
+      },
+      {
+        "title": "Lec 32: Reinforcement Learning",
+        "viewCount": "4.5K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "32:08",
+        "videoId": "imwLOIxbiHk",
+        "videoUrl": "https://www.youtube.com/watch?v=imwLOIxbiHk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/imwLOIxbiHk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwm6F6Riq2r9_BpC6uSbMREXtOOg"
+      },
+      {
+        "title": "Lec 33: Learning in Neural Networks",
+        "viewCount": "4.3K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "38:02",
+        "videoId": "bdu7LjmaVas",
+        "videoUrl": "https://www.youtube.com/watch?v=bdu7LjmaVas",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bdu7LjmaVas/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQFdzdGSvgpQaP46ASF1ZRUNyPLg"
+      },
+      {
+        "title": "Lec 34: Deep Learning: A Brief Overview",
+        "viewCount": "3.5K views",
+        "publishedDate": "4 years ago",
+        "author": "NPTEL IIT Guwahati",
+        "length": "53:05",
+        "videoId": "bd-QKq4cDiQ",
+        "videoUrl": "https://www.youtube.com/watch?v=bd-QKq4cDiQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bd-QKq4cDiQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWgs7bgrMkTf6Vcm7LbOar_pkUSw"
+      }
+    ]
+  },
+  {
+    "id": "AI002",
+    "title": "Stanford CS229: Machine Learning Full Course taught by Andrew Ng",
+    "description": "Led by Andrew Ng, this course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.",
+    "no_of_videos": "20",
+    "level": "Moderate",
+    "instructor": "Simplilearn",
+    "topics": [
+      {
+        "title": "Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)",
+        "viewCount": "2.9M views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:15:20",
+        "videoId": "jGwO_UgTS7I",
+        "videoUrl": "https://www.youtube.com/watch?v=jGwO_UgTS7I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jGwO_UgTS7I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDkXz6pEH9twQubESPXFIxhL7FoAA"
+      },
+      {
+        "title": "Stanford CS229: Machine Learning - Linear Regression and Gradient Descent |  Lecture 2 (Autumn 2018)",
+        "viewCount": "1.2M views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:18:17",
+        "videoId": "4b4MUYve_U8",
+        "videoUrl": "https://www.youtube.com/watch?v=4b4MUYve_U8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4b4MUYve_U8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC315yXmIMhF892OkuIHxiwrCbs8Q"
+      },
+      {
+        "title": "Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 2018)",
+        "viewCount": "553K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:19:34",
+        "videoId": "het9HFqo1TQ",
+        "videoUrl": "https://www.youtube.com/watch?v=het9HFqo1TQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/het9HFqo1TQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCl6Zw7Ezxz1CkvBf1tAZgOcLVfkw"
+      },
+      {
+        "title": "Lecture 4 - Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "284K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:22:02",
+        "videoId": "iZTeva0WSTQ",
+        "videoUrl": "https://www.youtube.com/watch?v=iZTeva0WSTQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iZTeva0WSTQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5Z4tGiTmGIqF3QQLemhBPv2oXXQ"
+      },
+      {
+        "title": "Lecture 5 - GDA & Naive Bayes | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
+        "viewCount": "266K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:18:52",
+        "videoId": "nt63k3bfXS0",
+        "videoUrl": "https://www.youtube.com/watch?v=nt63k3bfXS0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nt63k3bfXS0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1UGhsT_y6pcuWTfQj2x8ZfrbFQA"
+      },
+      {
+        "title": "Lecture 6 - Support Vector Machines | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
+        "viewCount": "229K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:20:57",
+        "videoId": "lDwow4aOrtg",
+        "videoUrl": "https://www.youtube.com/watch?v=lDwow4aOrtg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lDwow4aOrtg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXOH4cYWkYL3bBn7gFMEyRgvzJEA"
+      },
+      {
+        "title": "Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
+        "viewCount": "170K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:20:25",
+        "videoId": "8NYoQiRANpg",
+        "videoUrl": "https://www.youtube.com/watch?v=8NYoQiRANpg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8NYoQiRANpg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDeNQL7j1ak6hBe5_y0stCyvc3ZbA"
+      },
+      {
+        "title": "Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "118K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:23:26",
+        "videoId": "rjbkWSTjHzM",
+        "videoUrl": "https://www.youtube.com/watch?v=rjbkWSTjHzM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rjbkWSTjHzM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMi9kS9glRAblaV4OdrESz-KEi5A"
+      },
+      {
+        "title": "Lecture 9 - Approx/Estimation Error & ERM | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "79K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:26:03",
+        "videoId": "iVOxMcumR4A",
+        "videoUrl": "https://www.youtube.com/watch?v=iVOxMcumR4A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iVOxMcumR4A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-BWjkOnDNSFfRpBwAb4LCaxBimw"
+      },
+      {
+        "title": "Lecture 10 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "155K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:20:41",
+        "videoId": "wr9gUr-eWdA",
+        "videoUrl": "https://www.youtube.com/watch?v=wr9gUr-eWdA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wr9gUr-eWdA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjo9MwEQxhOpy-wr6EZRxkWvb-DQ"
+      },
+      {
+        "title": "Lecture 11 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "161K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:20:14",
+        "videoId": "MfIjxPh6Pys",
+        "videoUrl": "https://www.youtube.com/watch?v=MfIjxPh6Pys",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MfIjxPh6Pys/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnjpG1tPJQeWya9R0h19RKZyMYMQ"
+      },
+      {
+        "title": "Lecture 12 - Backprop & Improving Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "79K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:16:38",
+        "videoId": "zUazLXZZA2U",
+        "videoUrl": "https://www.youtube.com/watch?v=zUazLXZZA2U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zUazLXZZA2U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYBX9qaOdT83oxyJjGQST4zBJkWg"
+      },
+      {
+        "title": "Lecture 13 - Debugging ML Models and Error Analysis | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "80K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:18:55",
+        "videoId": "ORrStCArmP4",
+        "videoUrl": "https://www.youtube.com/watch?v=ORrStCArmP4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ORrStCArmP4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuGUeyjGxIsl8nzuBzK9clD6CBBQ"
+      },
+      {
+        "title": "Lecture 14 - Expectation-Maximization Algorithms | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "149K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:20:31",
+        "videoId": "rVfZHWTwXSA",
+        "videoUrl": "https://www.youtube.com/watch?v=rVfZHWTwXSA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rVfZHWTwXSA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCbVgSgg_pqSmR1w-iHxkWYpN6xxA"
+      },
+      {
+        "title": "Lecture 15 - EM Algorithm & Factor Analysis | Stanford CS229: Machine Learning Andrew Ng -Autumn2018",
+        "viewCount": "65K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:19:48",
+        "videoId": "tw6cmL5STuY",
+        "videoUrl": "https://www.youtube.com/watch?v=tw6cmL5STuY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tw6cmL5STuY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6Qy5tXCISh_AdGks6rnKwOtYBag"
+      },
+      {
+        "title": "Lecture 16 - Independent Component Analysis & RL | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "66K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:18:10",
+        "videoId": "YQA9lLdLig8",
+        "videoUrl": "https://www.youtube.com/watch?v=YQA9lLdLig8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YQA9lLdLig8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfu2fpX3y-xaM77R5KdQvWMuN_Dg"
+      },
+      {
+        "title": "Lecture 17 - MDPs & Value/Policy Iteration | Stanford CS229: Machine Learning Andrew Ng (Autumn2018)",
+        "viewCount": "82K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:19:14",
+        "videoId": "d5gaWTo6kDM",
+        "videoUrl": "https://www.youtube.com/watch?v=d5gaWTo6kDM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/d5gaWTo6kDM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvGdUHNDri3wJvK45iCvNLY6LQtg"
+      },
+      {
+        "title": "Lecture 18 - Continous State MDP & Model Simulation | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "41K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:20:15",
+        "videoId": "QFu5nuc-S0s",
+        "videoUrl": "https://www.youtube.com/watch?v=QFu5nuc-S0s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QFu5nuc-S0s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMmiG2BSNusFjZciFnJrIBQtNNqQ"
+      },
+      {
+        "title": "Lecture 19 - Reward Model & Linear Dynamical System | Stanford CS229: Machine Learning (Autumn 2018)",
+        "viewCount": "40K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:21:07",
+        "videoId": "0rt2CsEQv6U",
+        "videoUrl": "https://www.youtube.com/watch?v=0rt2CsEQv6U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0rt2CsEQv6U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNkxIVdv6AudETOG8V-o7OBjggyQ"
+      },
+      {
+        "title": "RL Debugging and Diagnostics | Stanford CS229: Machine Learning Andrew Ng - Lecture 20 (Autumn 2018)",
+        "viewCount": "52K views",
+        "publishedDate": "4 years ago",
+        "author": "Stanford Online",
+        "length": "1:12:43",
+        "videoId": "pLhPQynL0tY",
+        "videoUrl": "https://www.youtube.com/watch?v=pLhPQynL0tY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pLhPQynL0tY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUNvlFmrkOcUd7Do55DU210J_KyQ"
+      }
+    ]
+  },
+  {
+    "id": "AI003",
+    "title": "Machine Learning Full Course with Projects (Beginners to Advanced)",
+    "description": " learn Machine Learning Kya Hai? | Opportunities, Advantage & Classification of Machine Learning. Find all the videos of the Machine Learning Course in this playlist",
+    "no_of_videos": "22",
+    "level": "Beginner",
+    "instructor": "WsCube Tech",
+    "topics": [
+      {
+        "title": "Machine Learning Kya Hai? | Opportunities, Advantage & Classification of Machine Learning",
+        "viewCount": "194K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "36:45",
+        "videoId": "Nl3NJB3IJwo",
+        "videoUrl": "https://www.youtube.com/watch?v=Nl3NJB3IJwo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Nl3NJB3IJwo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPl2F-FAqjxzsAV_TEJCAUR31okw"
+      },
+      {
+        "title": "Top 10 Applications of Machine Learning in Day-to-Day Life | Machine Learning Application Examples",
+        "viewCount": "45K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "18:27",
+        "videoId": "4Rl8S7stN5A",
+        "videoUrl": "https://www.youtube.com/watch?v=4Rl8S7stN5A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4Rl8S7stN5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBFt1CO7SycFQEM-lTS3PMBn7bLg"
+      },
+      {
+        "title": "Machine Learning Life-cycle Explained - Complete Information",
+        "viewCount": "39K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "17:55",
+        "videoId": "AYgMefUlKq8",
+        "videoUrl": "https://www.youtube.com/watch?v=AYgMefUlKq8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AYgMefUlKq8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCy8KlMXMU5MrAtdxOxuY1S_mp9vQ"
+      },
+      {
+        "title": "Install Anaconda and Python on Windows (Latest Version) | Machine Learning",
+        "viewCount": "26K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "13:55",
+        "videoId": "OCHtT4wJdNA",
+        "videoUrl": "https://www.youtube.com/watch?v=OCHtT4wJdNA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OCHtT4wJdNA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYAobcWayY-_NMShw-kTk2bFVXsw"
+      },
+      {
+        "title": "Artificial Intelligence vs Machine Learning vs Deep Learning | Machine Learning Tutorial",
+        "viewCount": "32K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "15:47",
+        "videoId": "o7y7Y_Du6Oo",
+        "videoUrl": "https://www.youtube.com/watch?v=o7y7Y_Du6Oo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o7y7Y_Du6Oo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1n87hh2l1a3FBTmv6hqccgQUvUA"
+      },
+      {
+        "title": "What is Dataset & Types of Datasets? | Machine Learning - सम्पूर्ण जानकारी",
+        "viewCount": "47K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "18:13",
+        "videoId": "32OTiLq3TFQ",
+        "videoUrl": "https://www.youtube.com/watch?v=32OTiLq3TFQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/32OTiLq3TFQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDf0OI_Zq6iVs5XTy33Y53yqV8_Pg"
+      },
+      {
+        "title": "Data Preprocessing Kya Hai? | Techniques & Steps of Data Preprocessing | Machine Learning",
+        "viewCount": "44K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "34:55",
+        "videoId": "9uvIazKs2uI",
+        "videoUrl": "https://www.youtube.com/watch?v=9uvIazKs2uI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9uvIazKs2uI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATMi0J-T1UAPpgBjcI-YhPMiCvqg"
+      },
+      {
+        "title": "What are Features and Labels in Machine Learning? (with Example) | Machine Learning Tutorial",
+        "viewCount": "18K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "7:04",
+        "videoId": "N5VdHPzQFjg",
+        "videoUrl": "https://www.youtube.com/watch?v=N5VdHPzQFjg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N5VdHPzQFjg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6UGG_kypobaVY6SpzhGUwugGn4g"
+      },
+      {
+        "title": "What is Supervised Machine Learning? Types, Advantages & Disadvantages of Supervised Learning",
+        "viewCount": "51K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "13:39",
+        "videoId": "OIVja_NSJ0w",
+        "videoUrl": "https://www.youtube.com/watch?v=OIVja_NSJ0w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OIVja_NSJ0w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkx4ud4OrwiRn80R40ajy94Wap3w"
+      },
+      {
+        "title": "What is Unsupervised Machine Learning? Association & Clustering Algorithms in Machine Learning",
+        "viewCount": "39K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "18:51",
+        "videoId": "9oCZw-lNXUI",
+        "videoUrl": "https://www.youtube.com/watch?v=9oCZw-lNXUI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9oCZw-lNXUI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDohcmjgsT2EuBqAcHC6G8l42LwRg"
+      },
+      {
+        "title": "Training & Testing Data in Machine Learning | Complete Information",
+        "viewCount": "21K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "10:47",
+        "videoId": "7NL7LNICNSk",
+        "videoUrl": "https://www.youtube.com/watch?v=7NL7LNICNSk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7NL7LNICNSk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLWfyJvmh3mNp8WLt3o7InppQ0Kg"
+      },
+      {
+        "title": "Linear Regression Single Variable | Machine Learning Tutorial",
+        "viewCount": "42K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "18:30",
+        "videoId": "PcUnYSxAtAo",
+        "videoUrl": "https://www.youtube.com/watch?v=PcUnYSxAtAo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PcUnYSxAtAo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8TPVME4xkWMamD3JoFTcs56tTIg"
+      },
+      {
+        "title": "Linear Regression Multiple Variable | Machine Learning Tutorial",
+        "viewCount": "22K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "22:05",
+        "videoId": "woSvDIF6QDY",
+        "videoUrl": "https://www.youtube.com/watch?v=woSvDIF6QDY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/woSvDIF6QDY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMPTEtiVWqJH0eG7HmWkNwBlWCvA"
+      },
+      {
+        "title": "Machine Learning Polynomial Regression Explained | ML Tutorial for Beginners",
+        "viewCount": "19K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "16:54",
+        "videoId": "0dPd4PFCC2A",
+        "videoUrl": "https://www.youtube.com/watch?v=0dPd4PFCC2A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0dPd4PFCC2A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDeF8MG4uEzIiudr0pwmOZkYBeB0Q"
+      },
+      {
+        "title": "Logistic Regression (Binary Classification) | Machine Learning Tutorial",
+        "viewCount": "19K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "18:48",
+        "videoId": "HAjVpMTDs_Y",
+        "videoUrl": "https://www.youtube.com/watch?v=HAjVpMTDs_Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HAjVpMTDs_Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqwk29xSl_fSn2sRPYClDtdP56yw"
+      },
+      {
+        "title": "Logistic Regression (Multiclass Classification) | Machine Learning Tutorial",
+        "viewCount": "15K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "15:18",
+        "videoId": "Jy1itKTZSdA",
+        "videoUrl": "https://www.youtube.com/watch?v=Jy1itKTZSdA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Jy1itKTZSdA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADUoJV5Kf1AqV_6cMbGswXwBSVJA"
+      },
+      {
+        "title": "Decision Tree Classification in Machine Learning | Decision Tree in ML",
+        "viewCount": "30K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "23:47",
+        "videoId": "K1tg_ie4Yzc",
+        "videoUrl": "https://www.youtube.com/watch?v=K1tg_ie4Yzc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K1tg_ie4Yzc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAb-t2EuwM0E6ZxYLRFvguXkd4yOg"
+      },
+      {
+        "title": "Random Forest Classification in Machine Learning | Random Forest Tutorial",
+        "viewCount": "17K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "31:04",
+        "videoId": "NaJ7F29OJkE",
+        "videoUrl": "https://www.youtube.com/watch?v=NaJ7F29OJkE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NaJ7F29OJkE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAz9U9Bqu1ylyfsmiT3-8A9NyhT7w"
+      },
+      {
+        "title": "Naive Bayes Classifier Algorithm in Machine Learning | Machine Learning Tutorial",
+        "viewCount": "16K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "22:17",
+        "videoId": "OeZTRTW0FVQ",
+        "videoUrl": "https://www.youtube.com/watch?v=OeZTRTW0FVQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OeZTRTW0FVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNcUlwCrKSrJFduydSlpwJ8hMpZg"
+      },
+      {
+        "title": "Support Vector Machine Algorithm in Machine Learning | Machine Learning Tutorial",
+        "viewCount": "23K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "20:14",
+        "videoId": "RiyMwjZ-joQ",
+        "videoUrl": "https://www.youtube.com/watch?v=RiyMwjZ-joQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RiyMwjZ-joQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhQXGaY3xJUD_6URwbi9URWLA-cg"
+      },
+      {
+        "title": "Confusion Matrix In Machine Learning | Machine Learning Tutorial",
+        "viewCount": "25K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "11:05",
+        "videoId": "e3TmD8GpXrQ",
+        "videoUrl": "https://www.youtube.com/watch?v=e3TmD8GpXrQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e3TmD8GpXrQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkG2NwBYbQrBEKeQpp2sgPO-YPCg"
+      },
+      {
+        "title": "Overfit & Underfit in Machine Learning | Machine Learning Tutorial for Beginners",
+        "viewCount": "13K views",
+        "publishedDate": "2 years ago",
+        "author": "WsCube Tech",
+        "length": "13:23",
+        "videoId": "KSmD7Sw-E28",
+        "videoUrl": "https://www.youtube.com/watch?v=KSmD7Sw-E28",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KSmD7Sw-E28/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDX4rrJEFrqosqSsfReUeLZiovXJA"
+      }
+    ]
+  },
+  {
+    "id": "AI004",
+    "title": "Machine Learning Playlist",
+    "description": "",
+    "no_of_videos": "38",
+    "level": "Beginner",
+    "instructor": "Krish Naik Hindi",
+    "topics": [
+      {
+        "title": "Introduction To Machine Learning Algorithms In Hindi",
+        "viewCount": "187K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "19:00",
+        "videoId": "7uwa9aPbBRU",
+        "videoUrl": "https://www.youtube.com/watch?v=7uwa9aPbBRU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7uwa9aPbBRU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABrr9ysjzPAUpGdz3A9kY9NDo9sA"
+      },
+      {
+        "title": "Simple Linear Regression Algorithm Indepth Maths Intuition With Notes In Hindi",
+        "viewCount": "189K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "52:20",
+        "videoId": "jerPVDaHbEA",
+        "videoUrl": "https://www.youtube.com/watch?v=jerPVDaHbEA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jerPVDaHbEA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBe8zeDxWZuZ4WCBVu7lsopipT-hg"
+      },
+      {
+        "title": "Linear Regression Practical Implementation In Hindi",
+        "viewCount": "140K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "23:30",
+        "videoId": "bRl2IXIjuqE",
+        "videoUrl": "https://www.youtube.com/watch?v=bRl2IXIjuqE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bRl2IXIjuqE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLPZGKRBF3TTBeCzQtYcTU5CuyFQ"
+      },
+      {
+        "title": "Mean Sqaured Error, Mean Absolute Error And RMSE In Hindi- Linear Regression | Krish Naik Hindi",
+        "viewCount": "55K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "11:40",
+        "videoId": "KUrm-F8mXJQ",
+        "videoUrl": "https://www.youtube.com/watch?v=KUrm-F8mXJQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KUrm-F8mXJQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwTrVKYiFRz-gCFpHukGdua9LZKw"
+      },
+      {
+        "title": "Ridge And Lasso Regression Indepth Maths Intuition In hindi",
+        "viewCount": "60K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "17:47",
+        "videoId": "KapPZCurdsQ",
+        "videoUrl": "https://www.youtube.com/watch?v=KapPZCurdsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KapPZCurdsQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqo6wyH4iPjQ-l1cdExhk2cBoKIw"
+      },
+      {
+        "title": "Ridge And Lasso Practical Implementation In Hindi",
+        "viewCount": "27K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "15:07",
+        "videoId": "J_ESMRGpl74",
+        "videoUrl": "https://www.youtube.com/watch?v=J_ESMRGpl74",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J_ESMRGpl74/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCyC4RU9JXeSc2WW3C-UzZLK1Cmiw"
+      },
+      {
+        "title": "ElasticNet Regression Machine Learning Algorithm Explained In Hindi",
+        "viewCount": "21K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "18:35",
+        "videoId": "PbK8Hm13Baw",
+        "videoUrl": "https://www.youtube.com/watch?v=PbK8Hm13Baw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PbK8Hm13Baw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDuZ6uGApqXtH2Aebo6bfhFBJhhZg"
+      },
+      {
+        "title": "Logistic Regression Indepth Maths Intuition In Hindi",
+        "viewCount": "80K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "29:32",
+        "videoId": "_nvQKN8L1ZE",
+        "videoUrl": "https://www.youtube.com/watch?v=_nvQKN8L1ZE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_nvQKN8L1ZE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_-do7boxQC90w7SMOUzt4jcjQ8A"
+      },
+      {
+        "title": "Logistic Regression Practical Implementation In Python|Krish Naik|Hindi",
+        "viewCount": "58K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "19:47",
+        "videoId": "n40hS9tQmcY",
+        "videoUrl": "https://www.youtube.com/watch?v=n40hS9tQmcY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/n40hS9tQmcY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs2Bts9bBBa1PZb89uZLIDSIHnGg"
+      },
+      {
+        "title": "Hindi-Naive Baye's Machine Learning Algorithm Indepth Inution- Part 1",
+        "viewCount": "56K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "14:25",
+        "videoId": "7zpEuCTcdKk",
+        "videoUrl": "https://www.youtube.com/watch?v=7zpEuCTcdKk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7zpEuCTcdKk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxdVYPmeByEBmueHTbTiGYQeENoQ"
+      },
+      {
+        "title": "Hindi-Naive Baye's Machine Learning Algorithm Indepth Inution- Part 2",
+        "viewCount": "38K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "24:36",
+        "videoId": "VIj6xS937E4",
+        "videoUrl": "https://www.youtube.com/watch?v=VIj6xS937E4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VIj6xS937E4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBMiD_FgNDnBCr8k4NczmDH5YdfQ"
+      },
+      {
+        "title": "Hindi-K Nearest Neighbour Indepth Intuition- Classification And Regression",
+        "viewCount": "73K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "16:42",
+        "videoId": "gU6KTNbk0hk",
+        "videoUrl": "https://www.youtube.com/watch?v=gU6KTNbk0hk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gU6KTNbk0hk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAm674jNyV33KAk3pCiPM-1P2ogw"
+      },
+      {
+        "title": "Hindi- Overfitting, Underfitting,Bias And Variance Explained In Hindi| Machine Learning",
+        "viewCount": "56K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "12:18",
+        "videoId": "m5E6QxKFYlM",
+        "videoUrl": "https://www.youtube.com/watch?v=m5E6QxKFYlM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/m5E6QxKFYlM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxPAJiQOSVsUMFXJNwQVZm8m19mw"
+      },
+      {
+        "title": "Performance Metrics, Accuracy,Precision,Recall And F-Beta Score Explained In Hindi|Machine Learning",
+        "viewCount": "90K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "23:35",
+        "videoId": "5vqk6HnITko",
+        "videoUrl": "https://www.youtube.com/watch?v=5vqk6HnITko",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5vqk6HnITko/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzboV48sn5w558_Mhx6FOwF4ppjQ"
+      },
+      {
+        "title": "Support Vector Machine Classifier Indepth Intution In Hindi| Krish Naik",
+        "viewCount": "76K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "25:24",
+        "videoId": "9iD8DMF6odw",
+        "videoUrl": "https://www.youtube.com/watch?v=9iD8DMF6odw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9iD8DMF6odw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhWeqJxuot0rVtgVy43P02TeXyvA"
+      },
+      {
+        "title": "Support Vector Regression Indepth Maths Intuition In Hindi",
+        "viewCount": "43K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "11:02",
+        "videoId": "SBDO31GjNjg",
+        "videoUrl": "https://www.youtube.com/watch?v=SBDO31GjNjg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SBDO31GjNjg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDl8WKkHB5rSE7ekYQaTbGKFjabWg"
+      },
+      {
+        "title": "How SVM Kernels Work? |Krish Naik Hindi",
+        "viewCount": "28K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "10:24",
+        "videoId": "sRdquT--KO8",
+        "videoUrl": "https://www.youtube.com/watch?v=sRdquT--KO8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sRdquT--KO8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJj4LqrlJq0EZLFJQCY0yKQ-RG2Q"
+      },
+      {
+        "title": "Part 1-Decision Tree Classifier Indepth Intuition In Hindi| Krish Naik",
+        "viewCount": "85K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "34:17",
+        "videoId": "ynTCUngbFHA",
+        "videoUrl": "https://www.youtube.com/watch?v=ynTCUngbFHA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ynTCUngbFHA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsyyMt1xljZZFF0k-7spiKgTRtTw"
+      },
+      {
+        "title": "Part 2-Post Prunning And Pre Prunning In Decision Tree Classifier In Hindi| Krish Naik",
+        "viewCount": "50K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "9:47",
+        "videoId": "gcF4wppbDuA",
+        "videoUrl": "https://www.youtube.com/watch?v=gcF4wppbDuA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gcF4wppbDuA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXN_Wr3v8bKZ9RqcQGfJZETl9Qew"
+      },
+      {
+        "title": "Part 3- Decision Tree And Post Prunning Practical Implementation In Hindi | Krish Naik",
+        "viewCount": "38K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "15:46",
+        "videoId": "OMFQvcBx-Fc",
+        "videoUrl": "https://www.youtube.com/watch?v=OMFQvcBx-Fc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OMFQvcBx-Fc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlopo6g3i9qgqwqkxZ-1z4SlzpTQ"
+      },
+      {
+        "title": "Part 4-Hindi- Decision Tree And Pre Prunning Practical Implementation|Krish Naik",
+        "viewCount": "21K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "14:28",
+        "videoId": "mXcPVtbB9pU",
+        "videoUrl": "https://www.youtube.com/watch?v=mXcPVtbB9pU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mXcPVtbB9pU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVnD9zw_2PY80diBtWRXcB8hCClg"
+      },
+      {
+        "title": "Part 5-Hindi- Decision Tree Regression Indepth Intuition With Variance Reduction|Krish Naik",
+        "viewCount": "35K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "23:40",
+        "videoId": "uHq0I_MDVZU",
+        "videoUrl": "https://www.youtube.com/watch?v=uHq0I_MDVZU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uHq0I_MDVZU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkorpvkf0CYa__pViI_xtSW6VMRw"
+      },
+      {
+        "title": "Training Data Vs Test Data Vs Validation Data| Krish Naik",
+        "viewCount": "50K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "14:41",
+        "videoId": "XCYlRBf18YI",
+        "videoUrl": "https://www.youtube.com/watch?v=XCYlRBf18YI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XCYlRBf18YI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gPygpMA8=&rs=AOn4CLBeWsMA43hZBC0gxGspk_qY2wLo7A"
+      },
+      {
+        "title": "Hindi-Cross Validation Using Python In Machine Learning|Krish Naik",
+        "viewCount": "20K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "12:49",
+        "videoId": "ATnZmBxIvmQ",
+        "videoUrl": "https://www.youtube.com/watch?v=ATnZmBxIvmQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ATnZmBxIvmQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBTRoSLMOjnQjp76VlSstV2Mn0PsA"
+      },
+      {
+        "title": "Hindi-Types Of Cross Validation In Machine Learning|Krish Naik",
+        "viewCount": "33K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "18:54",
+        "videoId": "bq4LytNAjjM",
+        "videoUrl": "https://www.youtube.com/watch?v=bq4LytNAjjM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bq4LytNAjjM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDL9s4WyvvcTCor96fKxgxp7zmY6g"
+      },
+      {
+        "title": "Hindi- Ensemble Techniques-Bagging Vs Boosting|Krish Naik",
+        "viewCount": "39K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "11:55",
+        "videoId": "5TOSlFQnnPU",
+        "videoUrl": "https://www.youtube.com/watch?v=5TOSlFQnnPU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5TOSlFQnnPU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0CZ8gzSWMNUWpu82oECLH67XLaA"
+      },
+      {
+        "title": "Random Forest Regression And Classification Indepth Intuition In Hindi",
+        "viewCount": "46K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "16:15",
+        "videoId": "WjLjjx8wSz0",
+        "videoUrl": "https://www.youtube.com/watch?v=WjLjjx8wSz0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WjLjjx8wSz0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPIQI8jEiGHPHooAmxmhAGLEeXwg"
+      },
+      {
+        "title": "Out Of Bag(OOB) Evaluation And Error In Random Forest Indepth Intuition In Hindi",
+        "viewCount": "15K views",
+        "publishedDate": "2 years ago",
+        "author": "Krish Naik Hindi",
+        "length": "6:51",
+        "videoId": "TDtP4K_2CWg",
+        "videoUrl": "https://www.youtube.com/watch?v=TDtP4K_2CWg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TDtP4K_2CWg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXLBBuEjf9cAffWjj68pHWljwXIg"
+      },
+      {
+        "title": "Automated EDA Using Pandas Profiling- @krishnaikhindi",
+        "viewCount": "19K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "6:58",
+        "videoId": "ba_8kfpWrHU",
+        "videoUrl": "https://www.youtube.com/watch?v=ba_8kfpWrHU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ba_8kfpWrHU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxighPswIVJfvX59iVz8szSvhmdQ"
+      },
+      {
+        "title": "Automated EDA Using Autoviz Library With 3 Lines Of Code|Krish Naik Hindi",
+        "viewCount": "13K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "9:03",
+        "videoId": "OjHXJKTK14s",
+        "videoUrl": "https://www.youtube.com/watch?v=OjHXJKTK14s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OjHXJKTK14s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG9FnoOZPlVLhPzt-ST5IXh-MuTA"
+      },
+      {
+        "title": "In-depth EDA Using SweetViz Library In 2 Lines Of Code- Krish Naik Hindi",
+        "viewCount": "6.7K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "6:54",
+        "videoId": "qxmUe9LOhdQ",
+        "videoUrl": "https://www.youtube.com/watch?v=qxmUe9LOhdQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qxmUe9LOhdQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChF_LFj0JfNLzDJOK5nXCLMGDAzA"
+      },
+      {
+        "title": "Complete Automated EDA Using Dtale Library Ussing 3 Lines Of Code|Krish Naik Hindi",
+        "viewCount": "7.1K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "10:28",
+        "videoId": "LAgR52f7Fz8",
+        "videoUrl": "https://www.youtube.com/watch?v=LAgR52f7Fz8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LAgR52f7Fz8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXHlhiE-8WeLGAyilIi4-hqm5Jmw"
+      },
+      {
+        "title": "R sqaured And Adjusted R squared Machine Learning In Hindi|Krish Naik Hindi",
+        "viewCount": "24K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "12:20",
+        "videoId": "sk2HUh7gpZs",
+        "videoUrl": "https://www.youtube.com/watch?v=sk2HUh7gpZs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sk2HUh7gpZs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFRUWIwCUcTVx234g535O66iUbnQ"
+      },
+      {
+        "title": "What Is Boosting Technique In Machine Learning- Krish Naik Hindi",
+        "viewCount": "21K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "12:56",
+        "videoId": "-7mILjsok34",
+        "videoUrl": "https://www.youtube.com/watch?v=-7mILjsok34",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-7mILjsok34/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmphP4Q9iYtXn2RVyElUBo96-Ndg"
+      },
+      {
+        "title": "Adaboost ML Algorithm Indepth Intuition- Krish Naik Hindi",
+        "viewCount": "23K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "35:06",
+        "videoId": "UgxHn8W4usI",
+        "videoUrl": "https://www.youtube.com/watch?v=UgxHn8W4usI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UgxHn8W4usI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAxD4mIUvXchiSB5Lk7NIGz5eYZw"
+      },
+      {
+        "title": "Gradient Boosting Algorithms Indepth Intuition- Krish Naik Hindi",
+        "viewCount": "27K views",
+        "publishedDate": "1 year ago",
+        "author": "Krish Naik Hindi",
+        "length": "18:06",
+        "videoId": "eEtEPdw2dck",
+        "videoUrl": "https://www.youtube.com/watch?v=eEtEPdw2dck",
+        "thumbnailUrl": "https://i.ytimg.com/vi/eEtEPdw2dck/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATBMMGDPSTixukfx3NBq6dWKAiMg"
+      },
+      {
+        "title": "Complete Unsupervised Machine Learning Tutorials In Hindi- K Means,DBSCAN, Hierarchical Clustering",
+        "viewCount": "54K views",
+        "publishedDate": "11 months ago",
+        "author": "Krish Naik Hindi",
+        "length": "1:33:49",
+        "videoId": "Aa4MACKaDC0",
+        "videoUrl": "https://www.youtube.com/watch?v=Aa4MACKaDC0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Aa4MACKaDC0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWT1XG_UG7GmlU6rzeWjHxDtljyA"
+      },
+      {
+        "title": "Complete Anomaly Detection Machine Learning Algorithms- Isolation Forest,DBSCAN,Local Factor Outlier",
+        "viewCount": "14K views",
+        "publishedDate": "11 months ago",
+        "author": "Krish Naik Hindi",
+        "length": "32:02",
+        "videoId": "93DwLV0TkNs",
+        "videoUrl": "https://www.youtube.com/watch?v=93DwLV0TkNs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/93DwLV0TkNs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSVuc7hokkbi7svTfIHd0Gb6NFaw"
+      }
+    ]
+  },
+  {
+    "id": "AI005",
+    "title": "Artificial Intelligence",
+    "description": "In 20 episodes, Jabril will teach you about Artificial Intelligence and Machine Learning! This course is based on a university-level curriculum.",
+    "no_of_videos": "21",
+    "level": "Beginner",
+    "instructor": "CrashCourse",
+    "topics": [
+      {
+        "title": "Crash Course Artificial Intelligence Preview",
+        "viewCount": "577K views",
+        "publishedDate": "5 years ago",
+        "author": "CrashCourse",
+        "length": "3:50",
+        "videoId": "GvYYFloV0aA",
+        "videoUrl": "https://www.youtube.com/watch?v=GvYYFloV0aA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GvYYFloV0aA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAc9ix4ISyxCWUxVsPzmN9p3JyIZQ"
+      },
+      {
+        "title": "What Is Artificial Intelligence? Crash Course AI #1",
+        "viewCount": "736K views",
+        "publishedDate": "5 years ago",
+        "author": "CrashCourse",
+        "length": "11:46",
+        "videoId": "a0_lo_GDcFw",
+        "videoUrl": "https://www.youtube.com/watch?v=a0_lo_GDcFw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/a0_lo_GDcFw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCdZ1ox9Fk0ap1NgUyHmTr72jOTrQ"
+      },
+      {
+        "title": "Supervised Learning: Crash Course AI #2",
+        "viewCount": "394K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "15:23",
+        "videoId": "4qVRBYAdLAo",
+        "videoUrl": "https://www.youtube.com/watch?v=4qVRBYAdLAo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4qVRBYAdLAo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdUJJPwRnBrtmg5zRwaEYm8ekGDQ"
+      },
+      {
+        "title": "Neural Networks and Deep Learning: Crash Course AI #3",
+        "viewCount": "337K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "12:23",
+        "videoId": "oV3ZY6tJiA0",
+        "videoUrl": "https://www.youtube.com/watch?v=oV3ZY6tJiA0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oV3ZY6tJiA0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDflOKzvJCMmnclvTIf5gxu9s3JDg"
+      },
+      {
+        "title": "Training Neural Networks: Crash Course AI #4",
+        "viewCount": "190K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "12:29",
+        "videoId": "lgKrup5oi_A",
+        "videoUrl": "https://www.youtube.com/watch?v=lgKrup5oi_A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/lgKrup5oi_A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBSYJoMBLLxdf2Ybky8JEsdoWLCkQ"
+      },
+      {
+        "title": "How to make an AI read your handwriting (LAB) : Crash Course Ai #5",
+        "viewCount": "175K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "17:17",
+        "videoId": "6nGCGYWMObE",
+        "videoUrl": "https://www.youtube.com/watch?v=6nGCGYWMObE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6nGCGYWMObE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbSWRY1dMwbs3tvany5uzKX1OhiA"
+      },
+      {
+        "title": "Unsupervised Learning: Crash Course AI #6",
+        "viewCount": "172K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "12:35",
+        "videoId": "JnnaDNNb380",
+        "videoUrl": "https://www.youtube.com/watch?v=JnnaDNNb380",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JnnaDNNb380/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQVt4O8Y0xsbAvRDMpzAneGFFwFQ"
+      },
+      {
+        "title": "Natural Language Processing: Crash Course AI #7",
+        "viewCount": "137K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "13:29",
+        "videoId": "oi0JXuL19TA",
+        "videoUrl": "https://www.youtube.com/watch?v=oi0JXuL19TA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/oi0JXuL19TA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXG4uqejOkaEOC93mnp7E2McdRcw"
+      },
+      {
+        "title": "Make an AI sound like a YouTuber (LAB): Crash Course AI #8",
+        "viewCount": "90K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "16:00",
+        "videoId": "kZWum5omEv4",
+        "videoUrl": "https://www.youtube.com/watch?v=kZWum5omEv4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kZWum5omEv4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzcIrNIt4h4PBoGvnnJZFhMbq42g"
+      },
+      {
+        "title": "Reinforcement Learning: Crash Course AI #9",
+        "viewCount": "148K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "11:28",
+        "videoId": "nIgIv4IfJ6s",
+        "videoUrl": "https://www.youtube.com/watch?v=nIgIv4IfJ6s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nIgIv4IfJ6s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADj3Hd8OVqGJj3JRrMshXUhWUXxQ"
+      },
+      {
+        "title": "Symbolic AI: Crash Course AI #10",
+        "viewCount": "112K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "13:22",
+        "videoId": "WHCo4m2VOws",
+        "videoUrl": "https://www.youtube.com/watch?v=WHCo4m2VOws",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WHCo4m2VOws/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8am5n4x40AMdmpF7bM2j38fEsWA"
+      },
+      {
+        "title": "Robotics: Crash Course AI #11",
+        "viewCount": "133K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "10:12",
+        "videoId": "_U21fT8VLp0",
+        "videoUrl": "https://www.youtube.com/watch?v=_U21fT8VLp0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_U21fT8VLp0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBC81bZrcf84lx-w9QsIKsvk8ScOA"
+      },
+      {
+        "title": "AI Playing Games: Crash Course AI #12",
+        "viewCount": "82K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "11:31",
+        "videoId": "nw7zmdBLQ6U",
+        "videoUrl": "https://www.youtube.com/watch?v=nw7zmdBLQ6U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nw7zmdBLQ6U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDac9odrVyWo5sK3fswdROFKXiGCw"
+      },
+      {
+        "title": "Let's make an AI that destroys video games: Crash Course AI #13",
+        "viewCount": "93K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "13:26",
+        "videoId": "osbmLJb2Tkc",
+        "videoUrl": "https://www.youtube.com/watch?v=osbmLJb2Tkc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/osbmLJb2Tkc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_kywE10pdGOJxcgpeAvhuowU1Qg"
+      },
+      {
+        "title": "Humans and AI working together: Crash Course AI #14",
+        "viewCount": "72K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "10:13",
+        "videoId": "PIAPzioNt9Y",
+        "videoUrl": "https://www.youtube.com/watch?v=PIAPzioNt9Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PIAPzioNt9Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCk5PzRdWsa1p8GwH5cizjDEeiYlw"
+      },
+      {
+        "title": "How YouTube knows what you should watch: Crash Course AI #15",
+        "viewCount": "86K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "10:52",
+        "videoId": "kiInh5STnyQ",
+        "videoUrl": "https://www.youtube.com/watch?v=kiInh5STnyQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kiInh5STnyQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAVd81SO4Y6O7r5ruxvsvamYp0vag"
+      },
+      {
+        "title": "Let's make a movie recommendation system: Crash Course AI #16",
+        "viewCount": "72K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "14:41",
+        "videoId": "iaIW3CO4rcY",
+        "videoUrl": "https://www.youtube.com/watch?v=iaIW3CO4rcY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/iaIW3CO4rcY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKh3DK0pwdLd-zVe36288Afyvo9w"
+      },
+      {
+        "title": "Web Search: Crash Course AI #17",
+        "viewCount": "82K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "11:15",
+        "videoId": "PnFwdCGmVG0",
+        "videoUrl": "https://www.youtube.com/watch?v=PnFwdCGmVG0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PnFwdCGmVG0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChm0r2C1dKYUQRoAb40AMhStcQfQ"
+      },
+      {
+        "title": "Algorithmic Bias and Fairness: Crash Course AI #18",
+        "viewCount": "167K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "11:20",
+        "videoId": "gV0_raKR2UQ",
+        "videoUrl": "https://www.youtube.com/watch?v=gV0_raKR2UQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gV0_raKR2UQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCymejTUK4msZVSqbdCUaOya4LKag"
+      },
+      {
+        "title": "Cats vs Dogs? Let's make an AI to settle this: Crash Course AI #19",
+        "viewCount": "83K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "13:05",
+        "videoId": "_DZJV9ey1nE",
+        "videoUrl": "https://www.youtube.com/watch?v=_DZJV9ey1nE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_DZJV9ey1nE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1YONLuSsTvhXfpoyKn8dPDYPVZg"
+      },
+      {
+        "title": "The Future of Artificial Intelligence: Crash Course AI #20",
+        "viewCount": "209K views",
+        "publishedDate": "4 years ago",
+        "author": "CrashCourse",
+        "length": "11:00",
+        "videoId": "T7Rv4tGRlfc",
+        "videoUrl": "https://www.youtube.com/watch?v=T7Rv4tGRlfc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T7Rv4tGRlfc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBTAHy_8gxlpYW_yhhLJtUqartDIg"
+      }
+    ]
+  },
+  {
+    "id": "AI006",
+    "title": "Artificial Intelligence & Machine Learning in Finance",
+    "description": "",
+    "no_of_videos": "36",
+    "level": "Beginner",
+    "instructor": "ULFinance",
+    "topics": [
+      {
+        "title": "Artificial Intelligence & Machine Learning in Finance - Lecture 1 - Course outline",
+        "viewCount": "48K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "14:02",
+        "videoId": "zUJ8u9k0FzA",
+        "videoUrl": "https://www.youtube.com/watch?v=zUJ8u9k0FzA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/d5TKCbLLHnw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiIcmq2iAebBc6MU5Cy1S8-BC62A"
+      },
+      {
+        "title": "Artificial Intelligence & Machine Learning in Finance - Lecture 2 - Introduction",
+        "viewCount": "22K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "27:28",
+        "videoId": "mPXCksdO5f0",
+        "videoUrl": "https://www.youtube.com/watch?v=mPXCksdO5f0",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Artificial Intelligence & Machine Learning in Finance - Lecture 3 - Data sources",
+        "viewCount": "10K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "9:21",
+        "videoId": "573lcx41NNQ",
+        "videoUrl": "https://www.youtube.com/watch?v=573lcx41NNQ",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Artificial Intelligence & Machine Learning in Finance - Lecture 4 - Data preprocessing",
+        "viewCount": "8.6K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "10:08",
+        "videoId": "4LmjunPX0jE",
+        "videoUrl": "https://www.youtube.com/watch?v=4LmjunPX0jE",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Artificial Intelligence & Machine Learning in Finance - Lecture 5 - German Credit Data Part 1",
+        "viewCount": "8.5K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "18:21",
+        "videoId": "mQce-rSBLyo",
+        "videoUrl": "https://www.youtube.com/watch?v=mQce-rSBLyo",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Artificial Intelligence & Machine Learning in Finance - Lecture 6 - German Credit Data Part 2",
+        "viewCount": "5.1K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "13:20",
+        "videoId": "378jblUfpHU",
+        "videoUrl": "https://www.youtube.com/watch?v=378jblUfpHU",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 7 - Data Generation",
+        "viewCount": "3.7K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "9:59",
+        "videoId": "UwWuElTdXpI",
+        "videoUrl": "https://www.youtube.com/watch?v=UwWuElTdXpI",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 8 - Simple Linear Regression",
+        "viewCount": "3.9K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "17:49",
+        "videoId": "unCI7a1owQo",
+        "videoUrl": "https://www.youtube.com/watch?v=unCI7a1owQo",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 9 - Multiple Linear Regression - Definition",
+        "viewCount": "2.8K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "14:47",
+        "videoId": "4Hzbu3VkYZQ",
+        "videoUrl": "https://www.youtube.com/watch?v=4Hzbu3VkYZQ",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 10 - Multiple Linear Regression - Variable Selection",
+        "viewCount": "2.3K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "10:17",
+        "videoId": "scGp6Lj21fI",
+        "videoUrl": "https://www.youtube.com/watch?v=scGp6Lj21fI",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 11 - Multiple Linear Regression - Further topics",
+        "viewCount": "2.3K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "30:54",
+        "videoId": "ZLy80o8KHic",
+        "videoUrl": "https://www.youtube.com/watch?v=ZLy80o8KHic",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 12 - Penalized Regression",
+        "viewCount": "2.1K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "27:11",
+        "videoId": "cH68CWZHCi4",
+        "videoUrl": "https://www.youtube.com/watch?v=cH68CWZHCi4",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 13 - Elastic Net & Cross-Validation",
+        "viewCount": "1.7K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "9:43",
+        "videoId": "AXqVZn5O1pY",
+        "videoUrl": "https://www.youtube.com/watch?v=AXqVZn5O1pY",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 14 - Application of PLS",
+        "viewCount": "1.8K views",
+        "publishedDate": "3 years ago",
+        "author": "ULFinance",
+        "length": "27:32",
+        "videoId": "DxiCRCM2CHQ",
+        "videoUrl": "https://www.youtube.com/watch?v=DxiCRCM2CHQ",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 15 - Bayes & kNN Classifier",
+        "viewCount": "1.5K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "10:32",
+        "videoId": "MjMEU-PP9IM",
+        "videoUrl": "https://www.youtube.com/watch?v=MjMEU-PP9IM",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 16 - Maximal Margin Classifier",
+        "viewCount": "1.2K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "15:10",
+        "videoId": "Du0D9MOguog",
+        "videoUrl": "https://www.youtube.com/watch?v=Du0D9MOguog",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 17 - Support Vector Machines",
+        "viewCount": "1.4K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "13:53",
+        "videoId": "pGI38KANqUA",
+        "videoUrl": "https://www.youtube.com/watch?v=pGI38KANqUA",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 18 - Application of SVMs - Part 1",
+        "viewCount": "1.4K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "16:08",
+        "videoId": "OD3nma3Orqs",
+        "videoUrl": "https://www.youtube.com/watch?v=OD3nma3Orqs",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 19 - Application SVMs Part 2",
+        "viewCount": "1K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "13:06",
+        "videoId": "X0fumJ10QSs",
+        "videoUrl": "https://www.youtube.com/watch?v=X0fumJ10QSs",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 20 - Application SVMs Part 3",
+        "viewCount": "967 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "7:39",
+        "videoId": "trYGao3sfho",
+        "videoUrl": "https://www.youtube.com/watch?v=trYGao3sfho",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 21 - Classification Trees",
+        "viewCount": "1K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "14:45",
+        "videoId": "1fNkeeqha9A",
+        "videoUrl": "https://www.youtube.com/watch?v=1fNkeeqha9A",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 22 - Classification Trees: Application",
+        "viewCount": "903 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "15:26",
+        "videoId": "39D02F_F6sI",
+        "videoUrl": "https://www.youtube.com/watch?v=39D02F_F6sI",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 23 - Boosted Classification Trees",
+        "viewCount": "843 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "7:24",
+        "videoId": "McmPZjc4UMw",
+        "videoUrl": "https://www.youtube.com/watch?v=McmPZjc4UMw",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 24 - Regression Trees",
+        "viewCount": "852 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "7:22",
+        "videoId": "ZfEy2celYNQ",
+        "videoUrl": "https://www.youtube.com/watch?v=ZfEy2celYNQ",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 25 - Neural Networks: Structure",
+        "viewCount": "1.7K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "18:05",
+        "videoId": "4uLWoLzGUNM",
+        "videoUrl": "https://www.youtube.com/watch?v=4uLWoLzGUNM",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 26 - Fitting Neural Networks",
+        "viewCount": "969 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "9:11",
+        "videoId": "hNq0rmOcHS0",
+        "videoUrl": "https://www.youtube.com/watch?v=hNq0rmOcHS0",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 27 - Convolutional Neural Networks",
+        "viewCount": "1K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "7:14",
+        "videoId": "3CPxEcUz83A",
+        "videoUrl": "https://www.youtube.com/watch?v=3CPxEcUz83A",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 28 - Neural Networks Application",
+        "viewCount": "1.2K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "11:38",
+        "videoId": "d5TKCbLLHnw",
+        "videoUrl": "https://www.youtube.com/watch?v=d5TKCbLLHnw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/d5TKCbLLHnw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiIcmq2iAebBc6MU5Cy1S8-BC62A"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 29 - Multilayer Perceptron - Application",
+        "viewCount": "887 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "7:21",
+        "videoId": "T0TH4QYxAec",
+        "videoUrl": "https://www.youtube.com/watch?v=T0TH4QYxAec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/T0TH4QYxAec/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzw_O098HqfZGh_oWIGnV_YCga8A"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 30 - Multilayer Perceptron: Overfitting",
+        "viewCount": "720 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "9:27",
+        "videoId": "k2VbUDp06WA",
+        "videoUrl": "https://www.youtube.com/watch?v=k2VbUDp06WA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/k2VbUDp06WA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB8V96XEa1VmeyXZPvUjohDagktXA"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture - 31 - Multilayer Perceptron: Deep Model",
+        "viewCount": "796 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "4:21",
+        "videoId": "QO434bsMWao",
+        "videoUrl": "https://www.youtube.com/watch?v=QO434bsMWao",
+        "thumbnailUrl": "https://i.ytimg.com/vi/QO434bsMWao/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJfh5TAtHgyTMXG6b6yhl_fApYjA"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 32 - Multilayer Perceptron: Early Stopping",
+        "viewCount": "841 views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "6:07",
+        "videoId": "hyepGaWrYqQ",
+        "videoUrl": "https://www.youtube.com/watch?v=hyepGaWrYqQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/hyepGaWrYqQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5YdoCFS4R7-zGaHBBaIDs9de7Tg"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 33 - Convolutional Neural Networks: Application",
+        "viewCount": "1.9K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "14:19",
+        "videoId": "-CFSAlYQfQc",
+        "videoUrl": "https://www.youtube.com/watch?v=-CFSAlYQfQc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-CFSAlYQfQc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCoBJ37JbGiaxzU8mMp14zjcOeIHg"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 34 - Regtech",
+        "viewCount": "1.6K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "13:30",
+        "videoId": "VxCsBgyb0fQ",
+        "videoUrl": "https://www.youtube.com/watch?v=VxCsBgyb0fQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VxCsBgyb0fQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLX6riBnsLHh-gwbaMWRV1dM2CKQ"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 35 - Suptech & Systemic Risk",
+        "viewCount": "1.7K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "18:23",
+        "videoId": "3w7e888HNS8",
+        "videoUrl": "https://www.youtube.com/watch?v=3w7e888HNS8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3w7e888HNS8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfI8e-LSacTwHgecazuaBUyS7h7g"
+      },
+      {
+        "title": "AI & ML in Finance - Lecture 36 - AI/ML & Ethics",
+        "viewCount": "2.1K views",
+        "publishedDate": "2 years ago",
+        "author": "ULFinance",
+        "length": "20:16",
+        "videoId": "yJ6lwBY9PiQ",
+        "videoUrl": "https://www.youtube.com/watch?v=yJ6lwBY9PiQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yJ6lwBY9PiQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhC9bWn8UF842VQn_6xsQsCVhNHw"
+      }
+    ]
+  },
+  {
+    "id": "AI007",
+    "title": "Module 5: Mathematics for Machine Learning",
+    "description": "",
+    "no_of_videos": "26",
+    "level": "Beginner",
+    "instructor": "Siddhardhan",
+    "topics": [
+      {
+        "title": "5.0. Mathematics for Machine Learning - Introduction | Machine Learning Course",
+        "viewCount": "54K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "6:05",
+        "videoId": "VCF8kiLtBzU",
+        "videoUrl": "https://www.youtube.com/watch?v=VCF8kiLtBzU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VCF8kiLtBzU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWkQ5KxXhi_UeAitL2qzCEoeOezw"
+      },
+      {
+        "title": "5.1.1. Linear Algebra - Vectors | Mathematics for Machine Learning",
+        "viewCount": "24K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "10:19",
+        "videoId": "-RlJyf43zFA",
+        "videoUrl": "https://www.youtube.com/watch?v=-RlJyf43zFA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-RlJyf43zFA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXWxAlj9QkQagIXc4cpYKBPT9EeQ"
+      },
+      {
+        "title": "5.1.2. Vector Operations - Part 1 | Mathematics for Machine Learning | Linear Algebra",
+        "viewCount": "15K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "13:43",
+        "videoId": "sNXzMW8-XUk",
+        "videoUrl": "https://www.youtube.com/watch?v=sNXzMW8-XUk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sNXzMW8-XUk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgqTiiKTgJWyLyF-6ndtXUD-WcqQ"
+      },
+      {
+        "title": "5.1.3. Vector Operations - in Python - Part 1 | Math for Machine Learning | Linear Algebra",
+        "viewCount": "16K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "19:53",
+        "videoId": "ULK4UlXyAGA",
+        "videoUrl": "https://www.youtube.com/watch?v=ULK4UlXyAGA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ULK4UlXyAGA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-VqbWodS3W9TcSbH-fkesWmZ7vw"
+      },
+      {
+        "title": "5.1.4. Vector Operations - Part 2 | Dot Product | Cross Product | Projection of vector | Math for ML",
+        "viewCount": "10K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "10:24",
+        "videoId": "jq4IMDj7yuk",
+        "videoUrl": "https://www.youtube.com/watch?v=jq4IMDj7yuk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jq4IMDj7yuk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFb95wV5uajo6wmK6iF1KkV3eiIg"
+      },
+      {
+        "title": "5.1.5. Vector Operations - in Python - Part 2 | Dot Product | Cross Product | Projection of vector",
+        "viewCount": "9.8K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "18:59",
+        "videoId": "af7osGzIoxs",
+        "videoUrl": "https://www.youtube.com/watch?v=af7osGzIoxs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/af7osGzIoxs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDs1t2Xj81S9MzQabdXHNVZ09HKjw"
+      },
+      {
+        "title": "5.1.6. Matrix - Basics | Math for Machine Learning | Linear Algebra",
+        "viewCount": "10K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "14:58",
+        "videoId": "GHhdy2AKpCg",
+        "videoUrl": "https://www.youtube.com/watch?v=GHhdy2AKpCg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GHhdy2AKpCg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjPbQiaM83PeGDlUw-2tUcHRL58A"
+      },
+      {
+        "title": "5.1.7. Working with Matrix in Python | Mathematics for Machine Learning | Linear Algebra",
+        "viewCount": "8.6K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "19:28",
+        "videoId": "0QG7wzcj-U8",
+        "videoUrl": "https://www.youtube.com/watch?v=0QG7wzcj-U8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0QG7wzcj-U8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4IC3lzhWaLe2AVfIVm2JPtZtchw"
+      },
+      {
+        "title": "5.1.8. Matrix Operations - Addition, Subtraction, Multiplication | Mathematics for Machine Learning",
+        "viewCount": "7.4K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "19:56",
+        "videoId": "cw222tHtb9M",
+        "videoUrl": "https://www.youtube.com/watch?v=cw222tHtb9M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cw222tHtb9M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0INBHfYcIr8tymEyjKz17shfudg"
+      },
+      {
+        "title": "5.1.9. Matrix Operations in Python | Mathematics for Machine Learning | Linear Algebra",
+        "viewCount": "8.4K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "32:25",
+        "videoId": "b2oDNSmykgc",
+        "videoUrl": "https://www.youtube.com/watch?v=b2oDNSmykgc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b2oDNSmykgc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXptgn8NFuSh_XjbLFrRF0jl24iw"
+      },
+      {
+        "title": "5.2.1. Statistics for Machine Learning | Machine Learning course",
+        "viewCount": "11K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "8:58",
+        "videoId": "CrCsolJZL84",
+        "videoUrl": "https://www.youtube.com/watch?v=CrCsolJZL84",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CrCsolJZL84/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVETAq7OK_5iG86-Z0ZEGX2q3dbA"
+      },
+      {
+        "title": "5.2.2. Basics of Statistics | Types of Data in Statistics | Statistics for Machine Learning",
+        "viewCount": "8.4K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "13:40",
+        "videoId": "YvjiK0VDJ0M",
+        "videoUrl": "https://www.youtube.com/watch?v=YvjiK0VDJ0M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YvjiK0VDJ0M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2rz1X-ESi3JN8bG-oIXyAcb7rDw"
+      },
+      {
+        "title": "5.2.3. Types of Statistics | Descriptive and Inferential Statistics | Machine Learning Course",
+        "viewCount": "8.4K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "14:05",
+        "videoId": "4Q4A42mCr0A",
+        "videoUrl": "https://www.youtube.com/watch?v=4Q4A42mCr0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4Q4A42mCr0A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD52bhPhZfGmYpdlSBZ5w5_6oZ16w"
+      },
+      {
+        "title": "5.2.4. Types of statistical studies | Statistics for Machine Learning | Machine Learning course",
+        "viewCount": "7K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "12:24",
+        "videoId": "ps2o_yBCA1c",
+        "videoUrl": "https://www.youtube.com/watch?v=ps2o_yBCA1c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ps2o_yBCA1c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBaYyAwUm6-pkWXnehsMpQbazst8Q"
+      },
+      {
+        "title": "5.2.5. Population and Sample | Sampling techniques | Statistics for Machine Learning",
+        "viewCount": "7.7K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "23:38",
+        "videoId": "RACQgif4a30",
+        "videoUrl": "https://www.youtube.com/watch?v=RACQgif4a30",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RACQgif4a30/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmSFNcc0sUGH7cYJjupU5rR6xMwg"
+      },
+      {
+        "title": "5.2.6. Measure of Central Tendencies - Mean, Median, Mode | Statistics for Machine Learning",
+        "viewCount": "6.4K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "16:32",
+        "videoId": "tbVeThdZNz4",
+        "videoUrl": "https://www.youtube.com/watch?v=tbVeThdZNz4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tbVeThdZNz4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJtLGRjohh7j5tIIXh1wUBu06WRQ"
+      },
+      {
+        "title": "5.2.7. Measure of Variability - Range, Variance, Standard Deviation | Math for Machine Learning",
+        "viewCount": "6.6K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "12:54",
+        "videoId": "OOJa27TbArc",
+        "videoUrl": "https://www.youtube.com/watch?v=OOJa27TbArc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OOJa27TbArc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_F2omQWx1pFY3MfEKnFia7O1tvA"
+      },
+      {
+        "title": "5.2.8. Percentiles and Quantiles | Statistics for Machine Learning | Machine Learning Course",
+        "viewCount": "5.9K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "8:56",
+        "videoId": "p5W3nf9P0gk",
+        "videoUrl": "https://www.youtube.com/watch?v=p5W3nf9P0gk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/p5W3nf9P0gk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAVokSSG6aBmiO6oV0ximYx7waCkg"
+      },
+      {
+        "title": "5.2.9. Correlation and Causation | Statistics for machine learning | Machine Learning Course",
+        "viewCount": "9.2K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "13:43",
+        "videoId": "RSExZenpyC4",
+        "videoUrl": "https://www.youtube.com/watch?v=RSExZenpyC4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/RSExZenpyC4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXwb5gTWddyPXInTyeW6-Rp9Xtvg"
+      },
+      {
+        "title": "5.2.10. Hypothesis Testing | Null Hypothesis and Alternative Hypothesis | Math For Machine Learning",
+        "viewCount": "6.8K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "10:12",
+        "videoId": "5FW5YdbpXmg",
+        "videoUrl": "https://www.youtube.com/watch?v=5FW5YdbpXmg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5FW5YdbpXmg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOtMRXelCeRZJArYt7Z4PRS3L9bg"
+      },
+      {
+        "title": "5.3.1. Probability for Machine Learning | Machine Learning Course",
+        "viewCount": "13K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "8:27",
+        "videoId": "Ws-11M9rh44",
+        "videoUrl": "https://www.youtube.com/watch?v=Ws-11M9rh44",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Ws-11M9rh44/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIwhDRC46azq9WQZcTLkGdklzz4g"
+      },
+      {
+        "title": "5.3.2. Basics of Probability | Probability for Machine Learning | Machine Learning Course",
+        "viewCount": "6.9K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "10:13",
+        "videoId": "0TVpukzIdxw",
+        "videoUrl": "https://www.youtube.com/watch?v=0TVpukzIdxw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0TVpukzIdxw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9F_OtKAPS9iXVgbXuODK5HWkS4A"
+      },
+      {
+        "title": "5.3.3. Random Variables and its types | Discrete Random Variables | Continuous Random Variables",
+        "viewCount": "6K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "9:41",
+        "videoId": "PwUvkwIRcZg",
+        "videoUrl": "https://www.youtube.com/watch?v=PwUvkwIRcZg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PwUvkwIRcZg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4s5xlWu2C1Wn_dKcLTlnkFUhFqQ"
+      },
+      {
+        "title": "5.3.4. Probability Distribution for Random Variable | Machine Learning Course",
+        "viewCount": "6.2K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "10:07",
+        "videoId": "4eJcotW-b7Y",
+        "videoUrl": "https://www.youtube.com/watch?v=4eJcotW-b7Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4eJcotW-b7Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJbJdMRAyV1MB-Zn12lduTfV6prg"
+      },
+      {
+        "title": "5.3.5. Normal Distribution or Gaussian Distribution | Skewness | Probability for Machine Learning",
+        "viewCount": "7.1K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "9:47",
+        "videoId": "8C04WqbSUFI",
+        "videoUrl": "https://www.youtube.com/watch?v=8C04WqbSUFI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8C04WqbSUFI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACXl8vgHH5VZLhGviYsuIaWuTwnw"
+      },
+      {
+        "title": "5.3.6. Poisson Distribution | Probability for Machine Learning",
+        "viewCount": "7.1K views",
+        "publishedDate": "3 years ago",
+        "author": "Siddhardhan",
+        "length": "10:38",
+        "videoId": "06J-F1Bgo4w",
+        "videoUrl": "https://www.youtube.com/watch?v=06J-F1Bgo4w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/06J-F1Bgo4w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqK7lEgAwi1sZvx_GSTjPGt1AMAA"
+      }
+    ]
+  },
+  {
+    "id": "AI008",
+    "title": "AI/ML Tech Series 1 | AI / ML - Know About technology, Before you start",
+    "description": "Dive into the exciting world of technology with 'Future-Proof Your Knowledge: AI/ML Tech Series 1.' This series is like a fun adventure that helps you understand Artificial Intelligence and Machine Learning, two cool technologies that are changing the future. Whether you're just starting or already know a bit, we've got something for everyone. We'll break down the tricky stuff and show you the ropes, making it easy to grasp the ins and outs of AI and ML. This isn't just about today – it's about preparing for what's coming next! So, get ready to boost your tech skills, explore the possibilities, and be a part of the future. Join us in Series 1 and let's make learning tech both exciting and easy!",
+    "no_of_videos": "20",
+    "level": "Beginner",
+    "instructor": "Learn And Grow Community",
+    "topics": [
+      {
+        "title": "Playlist Premiere | Session 0 : AI/ML Essential Series 1 | High Level overview of AI/ML concept",
+        "viewCount": "32 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:17",
+        "videoId": "ztGnFL73Hz8",
+        "videoUrl": "https://www.youtube.com/watch?v=ztGnFL73Hz8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ztGnFL73Hz8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAhfTgfC3hcV2Truk6hlARcuOmyHg"
+      },
+      {
+        "title": "Session 1 : AI/ML Essentials | Your First Step into AI/ML Tech | AI/ML for Beginners",
+        "viewCount": "60 views",
+        "publishedDate": "7 months ago",
+        "author": "Learn And Grow Community",
+        "length": "8:54",
+        "videoId": "G6fLzneze6k",
+        "videoUrl": "https://www.youtube.com/watch?v=G6fLzneze6k",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 2 : What is AI!  What You Need to Know About Artificial Intelligence | For Beginners",
+        "viewCount": "42 views",
+        "publishedDate": "7 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:44",
+        "videoId": "m2LB3eWc0aM",
+        "videoUrl": "https://www.youtube.com/watch?v=m2LB3eWc0aM",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 3 : What is ML Explained!  What You Need to Know About Machine Learning | For Beginners",
+        "viewCount": "38 views",
+        "publishedDate": "7 months ago",
+        "author": "Learn And Grow Community",
+        "length": "7:04",
+        "videoId": "_B5FNalkMxo",
+        "videoUrl": "https://www.youtube.com/watch?v=_B5FNalkMxo",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 4 : What is Deep Learning!  What You Need to Know About Deep Learning | For Beginners",
+        "viewCount": "35 views",
+        "publishedDate": "7 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:23",
+        "videoId": "QhFzDYyT8Uc",
+        "videoUrl": "https://www.youtube.com/watch?v=QhFzDYyT8Uc",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 5 : AI Explained | What is Applied AI vs. Generalized AI : A Beginner's Guide!",
+        "viewCount": "43 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "3:01",
+        "videoId": "xiYD5pfGuhg",
+        "videoUrl": "https://www.youtube.com/watch?v=xiYD5pfGuhg",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 6 : Why AI and ML Are Trending | What's Driving the Hype? | AI/ML Today",
+        "viewCount": "32 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:14",
+        "videoId": "_5jJZUd2piE",
+        "videoUrl": "https://www.youtube.com/watch?v=_5jJZUd2piE",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "SESSION 7 : Key Components of ML : Understanding Features, Labels, and Labelled Data in ML!",
+        "viewCount": "41 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "9:41",
+        "videoId": "RZvguBwm1lQ",
+        "videoUrl": "https://www.youtube.com/watch?v=RZvguBwm1lQ",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 8 : Concept of Machine Learning | How Machines Learn: A Simple Explanation | For Beginners",
+        "viewCount": "34 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "8:20",
+        "videoId": "bhKmWhQtpoY",
+        "videoUrl": "https://www.youtube.com/watch?v=bhKmWhQtpoY",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 9 : Aiming for Generalization | Overcoming Underfit and Overfit Models",
+        "viewCount": "34 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "12:10",
+        "videoId": "vtsP-aAscTc",
+        "videoUrl": "https://www.youtube.com/watch?v=vtsP-aAscTc",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 10 : Learning AI : Beginners Guide to Supervised Machine Learning | ML Fundamentals",
+        "viewCount": "31 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:34",
+        "videoId": "udgzC5N_lBQ",
+        "videoUrl": "https://www.youtube.com/watch?v=udgzC5N_lBQ",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Session 11 : What is Classification Task in Supervised machine Learning | Beginner-Friendly ML",
+        "viewCount": "36 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:01",
+        "videoId": "OTprvnYKymw",
+        "videoUrl": "https://www.youtube.com/watch?v=OTprvnYKymw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OTprvnYKymw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDapQeZUB7cTgcZB6RpuovXA2-rPg"
+      },
+      {
+        "title": "Session 12 : What is Regression Models for Predictions | Core Concept | Overview in Machine Learning",
+        "viewCount": "31 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "5:06",
+        "videoId": "DOyp10Ixi-E",
+        "videoUrl": "https://www.youtube.com/watch?v=DOyp10Ixi-E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DOyp10Ixi-E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAVkFY_zX3rt6mYpVsRWUlurCc9lQ"
+      },
+      {
+        "title": "Session 13 : What and Why Unsupervised ML: Clustering & Dimension Reduction Basics",
+        "viewCount": "28 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "3:05",
+        "videoId": "HHt6dHaiYvA",
+        "videoUrl": "https://www.youtube.com/watch?v=HHt6dHaiYvA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HHt6dHaiYvA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1j9lgMA-XfvcdXRYvZurp1lcgnA"
+      },
+      {
+        "title": "Session 14 : Clustering in Machine Learning | The Importance of Clustering in Data Analysis",
+        "viewCount": "40 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:43",
+        "videoId": "pInors1RnJg",
+        "videoUrl": "https://www.youtube.com/watch?v=pInors1RnJg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pInors1RnJg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAs_YWsyFWuBoj56t5g0K9YOTNFBQ"
+      },
+      {
+        "title": "Session 15 : What is Dimension Reduction | Explained: A Beginner's Guide for Data Scientists",
+        "viewCount": "30 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:26",
+        "videoId": "WHkLbMTHyKY",
+        "videoUrl": "https://www.youtube.com/watch?v=WHkLbMTHyKY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WHkLbMTHyKY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBI9RmorJilovzYa-FDE7pzId_81g"
+      },
+      {
+        "title": "Session 16 : What is Reinforcement Learning | Explained: Key Concepts and Model Breakdown",
+        "viewCount": "28 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "5:38",
+        "videoId": "ZA5VPI0L9mA",
+        "videoUrl": "https://www.youtube.com/watch?v=ZA5VPI0L9mA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZA5VPI0L9mA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVk3gB3NeJC_m5UZBN4FmqoGPP0g"
+      },
+      {
+        "title": "Session 17 : Intelligent Decision Agent Idea : Reinforcement Learning Use-Case | Concept overview",
+        "viewCount": "26 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "6:10",
+        "videoId": "yoLj0IPad0o",
+        "videoUrl": "https://www.youtube.com/watch?v=yoLj0IPad0o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yoLj0IPad0o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAz9fakMS9ri1wVvXFTxoPpWZTCww"
+      },
+      {
+        "title": "Session 18 : Quick Recap | AI/ML Essential | Concept overview for AI/ML Beginners",
+        "viewCount": "38 views",
+        "publishedDate": "6 months ago",
+        "author": "Learn And Grow Community",
+        "length": "11:10",
+        "videoId": "dtUNavdq3HU",
+        "videoUrl": "https://www.youtube.com/watch?v=dtUNavdq3HU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dtUNavdq3HU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-yLSXtZhKrb7P23i7NiygkXxTfQ"
+      },
+      {
+        "title": "AI & Machine Learning Fundamentals in 2 Hours for Beginners",
+        "viewCount": "30 views",
+        "publishedDate": "2 months ago",
+        "author": "Learn And Grow Community",
+        "length": "2:04:20",
+        "videoId": "AYCul4JiryQ",
+        "videoUrl": "https://www.youtube.com/watch?v=AYCul4JiryQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AYCul4JiryQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAM6lb2qAuQwhYVxp82198d3U7yoQ"
+      }
+    ]
+  },
+  {
+    "id": "AI009",
+    "title": "Explainable AI",
+    "description": "",
+    "no_of_videos": "13",
+    "level": "Beginner",
+    "instructor": "DeepFindr",
+    "topics": [
+      {
+        "title": "Explainable AI explained! | #1 Introduction",
+        "viewCount": "65K views",
+        "publishedDate": "3 years ago",
+        "author": "DeepFindr",
+        "length": "6:53",
+        "videoId": "OZJ1IgSgP9E",
+        "videoUrl": "https://www.youtube.com/watch?v=OZJ1IgSgP9E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OZJ1IgSgP9E/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBboy6df3AOg45wUwKr6lULNWu9Eg"
+      },
+      {
+        "title": "Explainable AI explained! | #2 By-design interpretable models with Microsofts InterpretML",
+        "viewCount": "33K views",
+        "publishedDate": "3 years ago",
+        "author": "DeepFindr",
+        "length": "20:54",
+        "videoId": "qPn9m30ojfc",
+        "videoUrl": "https://www.youtube.com/watch?v=qPn9m30ojfc",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Explainable AI explained! | #3 LIME",
+        "viewCount": "57K views",
+        "publishedDate": "3 years ago",
+        "author": "DeepFindr",
+        "length": "13:59",
+        "videoId": "d6j6bofhj2M",
+        "videoUrl": "https://www.youtube.com/watch?v=d6j6bofhj2M",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Explainable AI explained! | #4 SHAP",
+        "viewCount": "77K views",
+        "publishedDate": "3 years ago",
+        "author": "DeepFindr",
+        "length": "15:50",
+        "videoId": "9haIOplEIGM",
+        "videoUrl": "https://www.youtube.com/watch?v=9haIOplEIGM",
+        "thumbnailUrl": null
+      },
+      {
+        "title": "Explainable AI explained! | #5 Counterfactual explanations and adversarial attacks",
+        "viewCount": "21K views",
+        "publishedDate": "3 years ago",
+        "author": "DeepFindr",
+        "length": "16:57",
+        "videoId": "UUZxRct8rIk",
+        "videoUrl": "https://www.youtube.com/watch?v=UUZxRct8rIk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UUZxRct8rIk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC0gOKAgwIABABGFAgOih_MA8=&rs=AOn4CLBbQFr04mEx6O-diq81T29-CFcFnA"
+      },
+      {
+        "title": "Explainable AI explained! | #6 Layerwise Relevance Propagation with MRI data",
+        "viewCount": "18K views",
+        "publishedDate": "3 years ago",
+        "author": "DeepFindr",
+        "length": "28:28",
+        "videoId": "PDRewtcqmaI",
+        "videoUrl": "https://www.youtube.com/watch?v=PDRewtcqmaI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PDRewtcqmaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5fmykg4kAqLNdDu8SaGPdzXdgDw"
+      },
+      {
+        "title": "How to explain Graph Neural Networks (with XAI)",
+        "viewCount": "17K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "15:07",
+        "videoId": "NvDM2j8Jgvk",
+        "videoUrl": "https://www.youtube.com/watch?v=NvDM2j8Jgvk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NvDM2j8Jgvk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgQRg3RzMy4FJv2rS8bfitPBzvGg"
+      },
+      {
+        "title": "Explaining Twitch Predictions with GNNExplainer",
+        "viewCount": "7.1K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "12:06",
+        "videoId": "aFnlmzFh4iQ",
+        "videoUrl": "https://www.youtube.com/watch?v=aFnlmzFh4iQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aFnlmzFh4iQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmh_MUAEK3yU8wZq_SDFOWucl6tA"
+      },
+      {
+        "title": "How to handle Uncertainty in Deep Learning #1.1",
+        "viewCount": "11K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "18:38",
+        "videoId": "p1EnIbDItTc",
+        "videoUrl": "https://www.youtube.com/watch?v=p1EnIbDItTc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/p1EnIbDItTc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKbBhSGCsJdcAoRjtRY9dhOJp48w"
+      },
+      {
+        "title": "How to handle Uncertainty in Deep Learning #1.2",
+        "viewCount": "3.8K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "14:55",
+        "videoId": "WWATIH5ZACw",
+        "videoUrl": "https://www.youtube.com/watch?v=WWATIH5ZACw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WWATIH5ZACw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgUChAMA8=&rs=AOn4CLDOtx70X05LSfUQcyzL7IUQVYqHng"
+      },
+      {
+        "title": "How to handle Uncertainty in Deep Learning #2.1",
+        "viewCount": "5.5K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "13:55",
+        "videoId": "scPt5rIocog",
+        "videoUrl": "https://www.youtube.com/watch?v=scPt5rIocog",
+        "thumbnailUrl": "https://i.ytimg.com/vi/scPt5rIocog/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihSMA8=&rs=AOn4CLBQQZZoY-ewqyVuWto00TArnxe80g"
+      },
+      {
+        "title": "How to handle Uncertainty in Deep Learning #2.2",
+        "viewCount": "3K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "13:40",
+        "videoId": "dYa-YPxO_nM",
+        "videoUrl": "https://www.youtube.com/watch?v=dYa-YPxO_nM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dYa-YPxO_nM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgWyhBMA8=&rs=AOn4CLAcupnKRxvBr-yH_9mfDgPkvaCtUA"
+      },
+      {
+        "title": "Causality and (Graph) Neural Networks",
+        "viewCount": "16K views",
+        "publishedDate": "2 years ago",
+        "author": "DeepFindr",
+        "length": "16:13",
+        "videoId": "AStrI3FhMWg",
+        "videoUrl": "https://www.youtube.com/watch?v=AStrI3FhMWg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AStrI3FhMWg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhyzPNcypH8gUcyC_tG5s5WzrPbg"
+      }
+    ]
+  },
+  {
+    "id": "AI010",
+    "title": "Artificial Intelligence (Complete Playlist)",
+    "description": "",
+    "no_of_videos": "55",
+    "level": "Beginner",
+    "instructor": "Gate Smashers",
+    "topics": [
+      {
+        "title": "Artificial Intelligence Syllabus Discussion and Analysis  for NTA UGC NET",
+        "viewCount": "1.4M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "11:26",
+        "videoId": "uB3i-qV6VdM",
+        "videoUrl": "https://www.youtube.com/watch?v=uB3i-qV6VdM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/uB3i-qV6VdM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDegT_LawYWGQHULpt4HDcfX9OrVw"
+      },
+      {
+        "title": "What is Artificial Intelligence | Learn AI with Real Life Examples | Can Machine Think??",
+        "viewCount": "877K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "8:31",
+        "videoId": "s-s9ilkMVj8",
+        "videoUrl": "https://www.youtube.com/watch?v=s-s9ilkMVj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/s-s9ilkMVj8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDO7h2M29KFSka6PN9oEUbYSngPGg"
+      },
+      {
+        "title": "What is State Space Search | Introduction to Problem Solving in Artificial Intelligence",
+        "viewCount": "929K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "10:47",
+        "videoId": "E5jVBqe59EE",
+        "videoUrl": "https://www.youtube.com/watch?v=E5jVBqe59EE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/E5jVBqe59EE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUOfHcPhsqoJ1MTAwY_NRrVmh-qg"
+      },
+      {
+        "title": "Uninformed Vs Informed Search in Artificial Intelligence with Example",
+        "viewCount": "828K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "8:17",
+        "videoId": "gZpUcsB9TFc",
+        "videoUrl": "https://www.youtube.com/watch?v=gZpUcsB9TFc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gZpUcsB9TFc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAadvWqLRCc83tMBOec0GV_uFYJAQ"
+      },
+      {
+        "title": "Breadth First Search with example | Uninformed Search | Artificial Intelligence",
+        "viewCount": "1.4M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "12:57",
+        "videoId": "qul0f79gxGs",
+        "videoUrl": "https://www.youtube.com/watch?v=qul0f79gxGs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qul0f79gxGs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDIAxvbsfmEeHdUsFbuig9zrwUtVA"
+      },
+      {
+        "title": "Depth First Search (DFS) with example | Uninformed Search | Artificial Intelligence",
+        "viewCount": "1.2M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "9:13",
+        "videoId": "f8luGFRtshY",
+        "videoUrl": "https://www.youtube.com/watch?v=f8luGFRtshY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/f8luGFRtshY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlAOJuRt7L01Az34kQ6oEPqsjrEQ"
+      },
+      {
+        "title": "Bidirectional Search Algorithm in Artificial Intelligence in Hindi with Real Life Examples",
+        "viewCount": "461K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "8:47",
+        "videoId": "rEema9uQ02c",
+        "videoUrl": "https://www.youtube.com/watch?v=rEema9uQ02c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rEema9uQ02c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAh-UaY-Pd4pipEg-YK400nUGc1RA"
+      },
+      {
+        "title": "8-Puzzle Problem in Artificial Intelligence without Heuristic | All Imp Points | Must Watch",
+        "viewCount": "641K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "11:05",
+        "videoId": "_CrEYrcImv0",
+        "videoUrl": "https://www.youtube.com/watch?v=_CrEYrcImv0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_CrEYrcImv0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkB5aMmoaObsTuNDs7Xsg5hfYkJg"
+      },
+      {
+        "title": "What is Heuristic in AI | Why we use Heuristic | How to Calculate Heuristic | Must Watch",
+        "viewCount": "922K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "12:57",
+        "videoId": "5F9YzkpnaRw",
+        "videoUrl": "https://www.youtube.com/watch?v=5F9YzkpnaRw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5F9YzkpnaRw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBF7D3VsE1o3VoV5rmZ0kg4TuMjnA"
+      },
+      {
+        "title": "How to Solve 8-Puzzle Problem with Heuristic(Informed Search) in Artificial Intelligence",
+        "viewCount": "650K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "11:07",
+        "videoId": "nmWGhb9E4es",
+        "videoUrl": "https://www.youtube.com/watch?v=nmWGhb9E4es",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nmWGhb9E4es/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCId-_w9Sw8qECYRpuuYUlLsMRdtQ"
+      },
+      {
+        "title": "Generate and Test Search in Artificial Intelligence with Real life Examples | Heuristic Search",
+        "viewCount": "317K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "7:58",
+        "videoId": "h-AfcPvpld4",
+        "videoUrl": "https://www.youtube.com/watch?v=h-AfcPvpld4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/h-AfcPvpld4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVY4NApE6dwUin2_wSxlPfAtIs6w"
+      },
+      {
+        "title": "Best First Search Algorithm in Artificial Intelligence | How it Works | All Imp Points(Pros & Cons)",
+        "viewCount": "1M views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "14:41",
+        "videoId": "7ffDUDjwz5E",
+        "videoUrl": "https://www.youtube.com/watch?v=7ffDUDjwz5E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7ffDUDjwz5E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABdZijN_GwaIBV4gV_GwIc1bmABA"
+      },
+      {
+        "title": "Beam Search Algorithm in Artificial Intelligence | All Imp Points | Heuristic Search Techniques",
+        "viewCount": "362K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "12:02",
+        "videoId": "jhoXO1XF6Fk",
+        "videoUrl": "https://www.youtube.com/watch?v=jhoXO1XF6Fk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jhoXO1XF6Fk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHN0Spr-nqY9x6x68-ex87rn7iZQ"
+      },
+      {
+        "title": "Hill Climbing Algorithm in Artificial Intelligence with Real Life Examples| Heuristic Search",
+        "viewCount": "1M views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "10:14",
+        "videoId": "3SiWtAnUROs",
+        "videoUrl": "https://www.youtube.com/watch?v=3SiWtAnUROs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3SiWtAnUROs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDx0jSf8ddKEaeJRBSXicGGzOuuHg"
+      },
+      {
+        "title": "A* algorithm in AI (artificial intelligence) in HINDI | A* algorithm with example",
+        "viewCount": "1.6M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "14:34",
+        "videoId": "tvAh0JZF2YE",
+        "videoUrl": "https://www.youtube.com/watch?v=tvAh0JZF2YE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tvAh0JZF2YE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCusqk6ijpdPoDA4IJw7nxrs2dpjw"
+      },
+      {
+        "title": "How to Proof A* Admissible| Underestimation & Overestimation of A* in Hindi |Artificial Intelligence",
+        "viewCount": "498K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "12:25",
+        "videoId": "xz1Nq6cZejI",
+        "videoUrl": "https://www.youtube.com/watch?v=xz1Nq6cZejI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xz1Nq6cZejI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmQ48QTp_kGVDFaAR1ySrUQt2kKA"
+      },
+      {
+        "title": "AO* algorithm in AI (artificial intelligence) in HINDI | AO* algorithm with example",
+        "viewCount": "678K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "13:24",
+        "videoId": "u_TE42-uWD0",
+        "videoUrl": "https://www.youtube.com/watch?v=u_TE42-uWD0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/u_TE42-uWD0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB9yph6S3vXYJssRAVLbKsDygZ6NQ"
+      },
+      {
+        "title": "Introduction to Game Playing in Artificial Intelligence | Learn Game Playing Algorithms with Example",
+        "viewCount": "537K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "7:07",
+        "videoId": "FFzdXJ49KAI",
+        "videoUrl": "https://www.youtube.com/watch?v=FFzdXJ49KAI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FFzdXJ49KAI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2lS03Bnac140J9kaljCh2EGkwXg"
+      },
+      {
+        "title": "Minimax Algorithm in Game Playing | Artificial Intelligence",
+        "viewCount": "1M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "12:29",
+        "videoId": "Ntu8nNBL28o",
+        "videoUrl": "https://www.youtube.com/watch?v=Ntu8nNBL28o",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Ntu8nNBL28o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVmpu0Wv0sMMbroZnRZNSvNAPwJg"
+      },
+      {
+        "title": "Alpha Beta Pruning in Hindi with Example | Artificial Intelligence",
+        "viewCount": "1.2M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "16:21",
+        "videoId": "dEs_kbvu_0s",
+        "videoUrl": "https://www.youtube.com/watch?v=dEs_kbvu_0s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/dEs_kbvu_0s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5pewRWo7Ww7PYJwIJDWhRkNmbFw"
+      },
+      {
+        "title": "Knowledge Representation and Reasoning in Artificial Intelligence | Logic, Semantic Net, Frames etc",
+        "viewCount": "775K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "7:44",
+        "videoId": "9iN3O_oL2ac",
+        "videoUrl": "https://www.youtube.com/watch?v=9iN3O_oL2ac",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9iN3O_oL2ac/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZSV15HzltpIe_FTvqWcUZIEuW9w"
+      },
+      {
+        "title": "Propositional Logic in Artificial Intelligence in Hindi | Knowledge Representation | All Imp Points",
+        "viewCount": "782K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "12:20",
+        "videoId": "6490tKrGEic",
+        "videoUrl": "https://www.youtube.com/watch?v=6490tKrGEic",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6490tKrGEic/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCSyz2TC4CtViUhVUcxzJKLSDz9w"
+      },
+      {
+        "title": "Introduction to Intelligent Agents and their types with Example in Artificial Intelligence",
+        "viewCount": "755K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "11:10",
+        "videoId": "BkedAnQfJ_U",
+        "videoUrl": "https://www.youtube.com/watch?v=BkedAnQfJ_U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BkedAnQfJ_U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBQkpK3k_Mn5HvtZsfDDhmhwGpcsg"
+      },
+      {
+        "title": "Simple Reflex Agent in Artificial Intelligence with Example | Artificial Intelligence",
+        "viewCount": "355K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "9:04",
+        "videoId": "KZFfbebQPAU",
+        "videoUrl": "https://www.youtube.com/watch?v=KZFfbebQPAU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/KZFfbebQPAU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWsdSndIKWlGmRYQUYOO2oAPnJiA"
+      },
+      {
+        "title": "Model Based Reflex Agent in Artificial Intelligence in HINDI with Real Life Examples",
+        "viewCount": "294K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "7:15",
+        "videoId": "xKxh3fQwU8E",
+        "videoUrl": "https://www.youtube.com/watch?v=xKxh3fQwU8E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xKxh3fQwU8E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuwJt2G6nO_i0h7pOWfzZcU3JSWA"
+      },
+      {
+        "title": "Goal Based Agents in Artificial Intelligence with real life examples in HINDI",
+        "viewCount": "264K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "5:28",
+        "videoId": "HsdiMkKnNLk",
+        "videoUrl": "https://www.youtube.com/watch?v=HsdiMkKnNLk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/HsdiMkKnNLk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsV3w5Vww7nDn0fwESCVzz_arnLA"
+      },
+      {
+        "title": "Utility Based Agents in Artificial Intelligence in Hindi with real life examples",
+        "viewCount": "243K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "5:35",
+        "videoId": "e-egxFtAF_4",
+        "videoUrl": "https://www.youtube.com/watch?v=e-egxFtAF_4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/e-egxFtAF_4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK3FCsxHdePlpNVkTb5ZFtkHAz1Q"
+      },
+      {
+        "title": "Fuzzy Logic in Artificial Intelligence with Example | Artificial Intelligence",
+        "viewCount": "720K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "13:03",
+        "videoId": "vof2vhfqoBo",
+        "videoUrl": "https://www.youtube.com/watch?v=vof2vhfqoBo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vof2vhfqoBo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDVvUVVJjLnTk0RSK_3RFJlX98gpg"
+      },
+      {
+        "title": "Various Operations in Fuzzy Logic with Example | Union, Intersection, Complement etc.",
+        "viewCount": "272K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "13:02",
+        "videoId": "o-2O4fmIu3E",
+        "videoUrl": "https://www.youtube.com/watch?v=o-2O4fmIu3E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/o-2O4fmIu3E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1Zu-3SG7fRrRheneceBIREJt4XQ"
+      },
+      {
+        "title": "Introduction to Neural Networks with Example in HINDI | Artificial Intelligence",
+        "viewCount": "1M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "11:20",
+        "videoId": "EYeF2e2IKEo",
+        "videoUrl": "https://www.youtube.com/watch?v=EYeF2e2IKEo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/EYeF2e2IKEo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWjc-gI6LqiUWH1_lz2K2rLkKs7w"
+      },
+      {
+        "title": "Natural Language Processing in Artificial Intelligence in Hindi | NLP with Demo and Examples",
+        "viewCount": "726K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "17:18",
+        "videoId": "bPpwZxasJo0",
+        "videoUrl": "https://www.youtube.com/watch?v=bPpwZxasJo0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bPpwZxasJo0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAyMHsLNbxqF78TYuAO3ng7aE8sQA"
+      },
+      {
+        "title": "Supervised, Unsupervised and Reinforcement Learning in Artificial Intelligence in Hindi",
+        "viewCount": "1M views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "9:28",
+        "videoId": "4dwsSz_fNSQ",
+        "videoUrl": "https://www.youtube.com/watch?v=4dwsSz_fNSQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4dwsSz_fNSQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDeDjkPos4fsxgCh21RZH_v5E91eQ"
+      },
+      {
+        "title": "Genetic Algorithm in Artificial Intelligence in Hindi | Simplest Explanation with real life examples",
+        "viewCount": "672K views",
+        "publishedDate": "5 years ago",
+        "author": "Gate Smashers",
+        "length": "12:24",
+        "videoId": "96-u9s6D16k",
+        "videoUrl": "https://www.youtube.com/watch?v=96-u9s6D16k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/96-u9s6D16k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXhjOCrqJYXnEpe-Eht46IqArn3A"
+      },
+      {
+        "title": "What is Constraint Satisfaction | Constraint Satisfaction Problem(CSP) in AI with Example",
+        "viewCount": "543K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "8:11",
+        "videoId": "AgyCSmDVk5s",
+        "videoUrl": "https://www.youtube.com/watch?v=AgyCSmDVk5s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AgyCSmDVk5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDF2sExXywyVxXP9qgVE3Z3pl91kA"
+      },
+      {
+        "title": "How Constraint Satisfaction Algorithm Works | Explained with Interesting Example | AI",
+        "viewCount": "317K views",
+        "publishedDate": "4 years ago",
+        "author": "Gate Smashers",
+        "length": "10:40",
+        "videoId": "udOfKqeLVSg",
+        "videoUrl": "https://www.youtube.com/watch?v=udOfKqeLVSg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/udOfKqeLVSg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBszjEmUSYAbb-Pp5ShK2enzEKx-Q"
+      },
+      {
+        "title": "Branch & Bound Algorithm with Example | Easiest Explanation of B&B with example",
+        "viewCount": "322K views",
+        "publishedDate": "1 year ago",
+        "author": "Gate Smashers",
+        "length": "13:13",
+        "videoId": "XZbrmetb9VE",
+        "videoUrl": "https://www.youtube.com/watch?v=XZbrmetb9VE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XZbrmetb9VE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAc4GDkUHpO4uIWCVLWYACYCllC7g"
+      },
+      {
+        "title": "0/1 Knapsack using Branch and Bound with example",
+        "viewCount": "241K views",
+        "publishedDate": "1 year ago",
+        "author": "Gate Smashers",
+        "length": "11:20",
+        "videoId": "CwM-Mv0Bm4Y",
+        "videoUrl": "https://www.youtube.com/watch?v=CwM-Mv0Bm4Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CwM-Mv0Bm4Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBahZZh1w3B63d9AD6_2lOsjijhsw"
+      },
+      {
+        "title": "Reasoning under Uncertainty in Artificial Intelligence",
+        "viewCount": "71K views",
+        "publishedDate": "11 months ago",
+        "author": "Gate Smashers",
+        "length": "8:28",
+        "videoId": "MIf5shIfsj8",
+        "videoUrl": "https://www.youtube.com/watch?v=MIf5shIfsj8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MIf5shIfsj8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBb7DKdWPt8HbDHssJzMALsFliOQg"
+      },
+      {
+        "title": "When There is Uncertainty🤨#artificialintelligence #shorts #ytshorts #machinelearning",
+        "viewCount": "16K views",
+        "publishedDate": "11 months ago",
+        "author": "Gate Smashers",
+        "length": "0:32",
+        "videoId": "PKeOJ4a2DNc",
+        "videoUrl": "https://www.youtube.com/watch?v=PKeOJ4a2DNc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PKeOJ4a2DNc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxnR6EN97ndGKC289ND5MMOYWVPw"
+      },
+      {
+        "title": "Informed vs Uninformed vs Adversarial Search With Examples | Artificial Intelligence",
+        "viewCount": "20K views",
+        "publishedDate": "7 months ago",
+        "author": "Gate Smashers",
+        "length": "6:23",
+        "videoId": "YatDNnaJ1TU",
+        "videoUrl": "https://www.youtube.com/watch?v=YatDNnaJ1TU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YatDNnaJ1TU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDkjmfOhVi_mxSswE-MtDzBVNGzng"
+      },
+      {
+        "title": "Propositional Logic | Artificial Intelligence",
+        "viewCount": "48K views",
+        "publishedDate": "7 months ago",
+        "author": "Gate Smashers",
+        "length": "11:47",
+        "videoId": "519FvcUQqYU",
+        "videoUrl": "https://www.youtube.com/watch?v=519FvcUQqYU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/519FvcUQqYU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-Kn_UsrdnBnJMynANrEmyTdMfNg"
+      },
+      {
+        "title": "Predicate Logic | Artificial Intelligence",
+        "viewCount": "103K views",
+        "publishedDate": "7 months ago",
+        "author": "Gate Smashers",
+        "length": "10:11",
+        "videoId": "FpGeg27Ffk8",
+        "videoUrl": "https://www.youtube.com/watch?v=FpGeg27Ffk8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FpGeg27Ffk8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTM8ma330aVmAuhWOtLeMcIzVowg"
+      },
+      {
+        "title": "How to write First order/Predicate logic | Artificial Intelligence",
+        "viewCount": "91K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "9:24",
+        "videoId": "Aw3EOSr64j0",
+        "videoUrl": "https://www.youtube.com/watch?v=Aw3EOSr64j0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Aw3EOSr64j0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbIH9VU6Z9m0bLRH9zahnKthDx1g"
+      },
+      {
+        "title": "Negation of Quantifiers | Predicate Logic | Logic with Certainty | Artificial Intelligence",
+        "viewCount": "30K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "7:05",
+        "videoId": "XYfTz5gziBk",
+        "videoUrl": "https://www.youtube.com/watch?v=XYfTz5gziBk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/XYfTz5gziBk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmjg4KNkgcV8a5aHqLp_lPkV1IVA"
+      },
+      {
+        "title": "Bayes Theorem & Total Probability with Examples",
+        "viewCount": "113K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "7:16",
+        "videoId": "SktJqrYereQ",
+        "videoUrl": "https://www.youtube.com/watch?v=SktJqrYereQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/SktJqrYereQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXw1tmit8ea6f7xsSLEYP90jdGjQ"
+      },
+      {
+        "title": "Questions on Propositional & Predicate logic | How to Solve Problems in Logic",
+        "viewCount": "22K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "12:46",
+        "videoId": "TD7DilUtUvE",
+        "videoUrl": "https://www.youtube.com/watch?v=TD7DilUtUvE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TD7DilUtUvE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCdujH8SWA5uLLkfa1rFNJ-SHVzoQ"
+      },
+      {
+        "title": "Bayesian Network with Examples | Easiest Explanation",
+        "viewCount": "115K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "9:54",
+        "videoId": "DVnubVOjZtg",
+        "videoUrl": "https://www.youtube.com/watch?v=DVnubVOjZtg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/DVnubVOjZtg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfnHHUvLtLScwU_P-kCpkBHqElEA"
+      },
+      {
+        "title": "Question on Bayesian Network | Artificial Intelligence",
+        "viewCount": "41K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "7:47",
+        "videoId": "xDyMuT9BliI",
+        "videoUrl": "https://www.youtube.com/watch?v=xDyMuT9BliI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xDyMuT9BliI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwMLc-shkglZOKP-DTwij0JlKj5Q"
+      },
+      {
+        "title": "Likelihood Weight Sampling | Inference through Sampling | Uncertainty in Artificial Intelligence",
+        "viewCount": "16K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "9:08",
+        "videoId": "D4x0NB5cKGE",
+        "videoUrl": "https://www.youtube.com/watch?v=D4x0NB5cKGE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/D4x0NB5cKGE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtnpQIEzIZ6JkcXf-qdAfPPOIzqQ"
+      },
+      {
+        "title": "Question on Likelihood Sampling | Probabilistic Inference | Sampling | Artificial Intelligence",
+        "viewCount": "10K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "8:07",
+        "videoId": "kWyFuJWGYdc",
+        "videoUrl": "https://www.youtube.com/watch?v=kWyFuJWGYdc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kWyFuJWGYdc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_nn7ayQN0woHdv06bMsQDCgOwxw"
+      },
+      {
+        "title": "Rejection Sampling | Probabilistic Inference | Sampling | Artificial Intelligence",
+        "viewCount": "10K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "6:29",
+        "videoId": "ilmJD8tRg-Q",
+        "videoUrl": "https://www.youtube.com/watch?v=ilmJD8tRg-Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ilmJD8tRg-Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCApPKjPBI9xaylvIEZAIdHUHnK9Q"
+      },
+      {
+        "title": "Probabilistic Inference | Sampling | Artificial Intelligence",
+        "viewCount": "11K views",
+        "publishedDate": "6 months ago",
+        "author": "Gate Smashers",
+        "length": "8:06",
+        "videoId": "kGlR6gBIjTk",
+        "videoUrl": "https://www.youtube.com/watch?v=kGlR6gBIjTk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kGlR6gBIjTk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAa1JwczsTb2GvgLTkktD-I-x2zlw"
+      },
+      {
+        "title": "Bayesian Network Numerical Example #gate2025preparation",
+        "viewCount": "10K views",
+        "publishedDate": "5 months ago",
+        "author": "Gate Smashers",
+        "length": "7:10",
+        "videoId": "zLlKc8AePIQ",
+        "videoUrl": "https://www.youtube.com/watch?v=zLlKc8AePIQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zLlKc8AePIQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDh9ueoRKU0445sNB7cqdOK3qYCuQ"
+      },
+      {
+        "title": "Understand Artificial 🤖Neural Networks🦾 from Basics with Examples | Components | Working",
+        "viewCount": "35K views",
+        "publishedDate": "3 months ago",
+        "author": "Gate Smashers",
+        "length": "13:32",
+        "videoId": "1TmUwRALJW0",
+        "videoUrl": "https://www.youtube.com/watch?v=1TmUwRALJW0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/1TmUwRALJW0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAMPdEvWxY56x4eS9na1UX71Mc9g"
+      },
+      {
+        "title": "Token & Parameters in LLama3 META Models | 8B & 70B Parameters Model | GPT model",
+        "viewCount": "7.6K views",
+        "publishedDate": "3 months ago",
+        "author": "Gate Smashers",
+        "length": "7:09",
+        "videoId": "UcFhiOtNHsQ",
+        "videoUrl": "https://www.youtube.com/watch?v=UcFhiOtNHsQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UcFhiOtNHsQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAexbUHjmI3RLQ2RPZFeCtD36nL4A"
+      }
+    ]
+  }
+]
