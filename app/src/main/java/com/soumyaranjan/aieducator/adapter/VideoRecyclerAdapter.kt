@@ -12,12 +12,14 @@ import com.soumyaranjan.aieducator.databinding.CourseItemBinding
 import com.soumyaranjan.aieducator.databinding.VideoItemBinding
 import com.soumyaranjan.aieducator.model.Course
 import com.soumyaranjan.aieducator.model.Video
+import com.soumyaranjan.aieducator.videoplayer.ui.VideoPlayerActivity
 
 class VideoRecyclerAdapter(private val videosList: List<Video>, private val context : Context): RecyclerView.Adapter<VideoRecyclerAdapter.VideoRecyclerViewHolder>() {
 
     class VideoRecyclerViewHolder(val binding: VideoItemBinding, val context: Context): RecyclerView.ViewHolder(binding.root){
-        fun bind(item: Video){
+        fun bind(videosList: List<Video>, position: Int){
             with(binding){
+                val item = videosList[position]
                 videoThumbnail.load(item.thumbnailUrl){
                     placeholder(R.drawable.baseline_videocam_24)
                     crossfade(true)
@@ -29,7 +31,10 @@ class VideoRecyclerAdapter(private val videosList: List<Video>, private val cont
                 videoDuration.text = item.length
                 videoViewCount.text = item.viewCount
                 videoContainer.setOnClickListener {
-
+                    context.startActivity(Intent(context, VideoPlayerActivity::class.java).apply {
+                        putExtra("Video", item)
+                        putExtra("List", videosList.toTypedArray())
+                    })
                 }
             }
         }
@@ -45,6 +50,6 @@ class VideoRecyclerAdapter(private val videosList: List<Video>, private val cont
     }
 
     override fun onBindViewHolder(holder: VideoRecyclerViewHolder, position: Int) {
-        holder.bind(videosList[position])
+        holder.bind(videosList, position)
     }
 }

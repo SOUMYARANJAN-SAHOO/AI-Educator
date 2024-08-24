@@ -54,4 +54,15 @@ dependencies {
 
     implementation(libs.coil)
     implementation(libs.gson)
+
+    implementation(libs.generativeai)
+
+
+        implementation(libs.kotlinx.coroutines.core)
+        implementation(libs.kotlinx.coroutines.android)
+
+    implementation(libs.androidx.lifecycle.viewmodel.ktx)
+
+    implementation ("io.noties.markwon:core:4.6.2")
+
 }

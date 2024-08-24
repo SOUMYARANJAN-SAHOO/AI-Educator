@@ -1,5 +1,6 @@
 package com.soumyaranjan.aieducator.activity
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -12,6 +13,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.soumyaranjan.aieducator.MainViewModel
 import com.soumyaranjan.aieducator.R
 import com.soumyaranjan.aieducator.Repository
+import com.soumyaranjan.aieducator.chatbot.view.ChatBotActivity
 import com.soumyaranjan.aieducator.databinding.ActivityHostBinding
 import com.soumyaranjan.aieducator.fragment.CommunityFragment
 import com.soumyaranjan.aieducator.fragment.CourseFragment
@@ -42,6 +44,10 @@ class HostActivity : AppCompatActivity() {
         }).get(MainViewModel::class.java)
 
         changeFragment(HomeFragment(viewModel))
+
+        binding.fab.setOnClickListener {
+            startActivity(Intent(this, ChatBotActivity::class.java))
+        }
 
         binding.bottomNavigation.setOnItemSelectedListener {
 

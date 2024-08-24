@@ -15,6 +15,13 @@
         android:theme="@style/Theme.AIEducator"
         tools:targetApi="31">
         <activity
+            android:name=".videoplayer.ui.VideoPlayerActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".chatbot.view.ChatBotActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
             android:name=".activity.CourseDetailsActivity"
             android:exported="false" />
         <activity
